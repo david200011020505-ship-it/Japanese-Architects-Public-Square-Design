@@ -5,10 +5,24 @@
 當代日本建築師公共廣場設計
 # 資料夾結構
 案例>照片/圖面/圖說
-# 其他
+# Precedent Knowledge Structure
 ### site 
 Context & History\
-scale\
-users\
-event\
-function
+Location & Boundaries\
+Accessibility & Infrastructure
+### scale
+Physical Area & Dimension\
+Perceived Scale & Enclosure\
+Capacity Classification
+### users
+Primary Users\
+Demographics & Behavior\
+Temporal Users
+### event
+Routine Activities\
+Periodic & Organized Events\
+Informal Occupations
+### function
+Associated Core Functions\
+Programmatic Ratio\
+Supportive Infrastructure
