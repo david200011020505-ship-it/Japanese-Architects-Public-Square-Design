@@ -1,11 +1,11 @@
-# 組員名單
+## 組員名單
 陳智偉
 朱彥儒
-# 案例主題
+## 案例主題
 當代日本建築師公共廣場設計
-# 資料夾結構
+## 資料夾結構
 案例>照片/圖面/圖說
-# Precedent Knowledge Structure
+## Precedent Knowledge Structure
 ### site 
 Context & History\
 Location & Boundaries\
