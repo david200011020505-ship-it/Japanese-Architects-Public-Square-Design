@@ -1,0 +1,1647 @@
+[
+  {
+    "id": "CASE01_惠比壽花園廣場",
+    "Site": {
+      "Context & History": "本基地為日本東京知名的都市再開發經典案例「惠比壽花園廣場（Yebisu Garden Place）」。該基地原址為札幌啤酒（Sapporo Beer）的惠比壽工廠與釀酒廠，規劃開發週期橫跨1985年至1994年，是一處成功的工業遺存都市更新案。",
+      "Location & Boundaries": "基地整體佔地約8.3公頃。其東側以繁忙的「JR山手線」鐵道為明確邊界，南側鄰接「くすのき通り」與美國橋（America Bridge），西側與北側則深入既有的都市混合街區，周邊被辦公大樓、高級住宅及高層飯店圍繞。",
+      "Accessibility & Infrastructure": "基地西南角規劃有整合都市基盤的「電動步道（惠比壽Skywalk）」，直接聯通「JR山手線惠比壽站」，提供強大的大眾運輸導向發展（TOD）可及性。內部建立了完善的立體化車行與人行分流系統，包含多個地下停車場（P）入口，以及一條從南端「エントランスパビリオン」向北延伸、貫穿全區的中央景觀主軸「坂のプロムナード」。"
+    },
+    "Scale": {
+      "Physical Area & Dimension": "總開發面積達8.3公頃（包含高達200%至400%的容積率規劃）。全區由多棟巨型高層建築（如：惠比壽花園廣場塔樓、威斯汀飯店、高級住宅棟）共同構成，在水平方向則留設了面寬達數十公尺、尺度宏大的帶狀公共軸線。",
+      "Perceived Scale & Enclosure": "空間感表現出高聳量體與古典圍合的強烈對比。步道兩側的現代高層辦公樓與歐式古典風格建築（如：城堡餐廳 Joel Robuchon）對中央軸線形成明顯的垂直圍合感；然而，設計在中段架設了一座極具幾何張力的巨大圓弧形鋼骨玻璃穹頂棚架，將原本開敞的「中央廣場（センター広場）」轉化為一個兼具都市紀念性與全天候防護感的「半戶外都市客廳」。",
+      "Capacity Classification": "具備大型都市廣場等級的承載力。中央廣場與寬闊的林蔭坡道（坂のプロムナード）採用全平坦的歐式石材鋪面，可同時容納數千名市民進行日常通過、聚集、休憩或參與大型市集活動。"
+    },
+    "Users": {
+      "Primary Users": "核心使用者高度複合。包含「惠比壽花園廣場塔樓」內的上班族、周邊高級住宅區與國民住宅的居民、「威斯汀飯店（Westin Hotel）」的國內外旅客、前往三越百貨（現已更換營運主體）與商業街區的購物者，以及造訪「東京都寫真美術館」與電影院（Yebisu Garden Cinema）的文化消費族群。",
+      "Demographics & Behavior": "全區呈現全世代型的行為特徵。透視圖中可見商務人士步履匆匆、情侶與遊客在兩側種植雙排路樹的斜坡道上漫步與眺望，亦有許多市民在穹頂廣場下的長椅上駐足、休憩、交談或使用行動裝置。",
+      "Temporal Users": "具有高度穩定的全天候與季節性人口流動。白日以商務通勤、觀光與日常購物人潮為主；傍晚與夜間則轉為前往「Top of Yebisu」高空景觀餐廳、啤酒屋（ビヤステーション）或城堡餐廳的精緻餐飲客群。此外，因場地具備良好的燈光照明與空間尺度，也是東京著名的冬季節慶點燈吸引群眾流動的熱點（guess，信任度: 9）。"
+    },
+    "Event": {
+      "Routine Activities": "日常行為包含都市散步、通勤通學、在樹蔭下或階梯座席區靜坐休憩、在露天咖啡座進行商務或社交餐飲、以及利用漫步道進行景觀攝影。",
+      "Periodic & Organized Events": "中央廣場（センター広場）與時鐘廣場常態性舉辦露天歐式文創市集、季節性花卉展、戶外音樂表演；室內機能則由「ザ・ガーデンホール / ザ・ガーデンルーム」承載各類組織性的展覽、發表會與藝文宴會。",
+      "Informal Occupations": "市民自發性地利用中央斜坡道的花台邊緣、階梯段差作為臨時長椅佇立歇息；兒童在開闊的廣場微地形上奔跑奔跳，將嚴謹的古典軸線空間轉化為自發性的身體遊憩場所。"
+    },
+    "Function": {
+      "Associated Core Functions": "核心機能為高密度、高品質的都市綜合體（MXD）。完美融合了「辦公（Garden Place Tower）」、「商業與娛樂（三越百貨、電影院、Brick End）」、「文化（東京都寫真美術館、啤酒紀念館）」、「國際旅宿（Westin Hotel）」以及「高級居住」五大核心功能。",
+      "Programmatic Ratio": "根據平面圖配置，基地機能配比均衡。辦公與商業百貨機能約佔建築總量的40-45%；高層高級住宅、國民住宅與奢華旅宿約佔35-40%；其餘的15-20%則分配給了寫真美術館、啤酒博物館等文化設施，並以超過30%以上的開放式公共綠地、廣場及步行系統將所有量體有機縫合。",
+      "Supportive Infrastructure": "基礎支撐設施極為完善。包含整合鐵路節點的空調電動步道系統、全區地下化的垃圾與物流裝卸管理系統、中央穹頂防雨鋼骨結構、完備的無障礙電梯與坡道、分佈於廣場各處的景觀照明與街道家具，以及滿足高密度聚集所需的公共化妝室（Restroom）與防災廣場設計。"
+    }
+  },
+  {
+    "id": "CASE02_Rolex Learning Center",
+    "Site": {
+      "Context_and_History": "位於瑞士洛桑聯邦理工學院 (EPFL) 校園內，鄰近日內瓦湖畔，周邊為低密度校園建築群與自然綠地 (guess, confidence: 9)",
+      "Location_and_Boundaries": "基地呈長方形，建築邊界與周邊草坪、道路緊鄰，打破傳統校園圍牆概念，具有高度開放性",
+      "Accessibility_and_Infrastructure": "具備多個地面入口，建築底部的起伏空間允許行人與單車自由穿越建築下方，提供強大的都市穿透力"
+    },
+    "Scale": {
+      "Physical_Area_and_Dimension": "超大跨度的單層起伏結構，占地面積廣大，內部包含多個不同大小的圓形中庭 (guess, confidence: 9)",
+      "Perceived_Scale_and_Enclosure": "空間尺度隨屋頂起伏動態變化，從極具壓迫感的低矮挑簷到寬敞明亮的挑高空間，形成連續而不斷裂的包裹感",
+      "Capacity_Classification": "大型公共學習中心，可同時容納數百至上千人進行不同類型的學習與研究活動 (guess, confidence: 8)"
+    },
+    "Users": {
+      "Primary_Users": "EPFL 的學生、教授、研究人員以及到訪的學者",
+      "Demographics_and_Behavior": "年輕且具備學術背景的族群，行為特徵包括自主學習、小組討論、數位工作及休閒放鬆",
+      "Temporal_Users": "主要為日間學術活動時段，但也提供全天候的彈性學習空間 (guess, confidence: 7)"
+    },
+    "Event": {
+      "Routine_Activities": "個人閱讀、電腦辦公、小組討論、用餐以及在坡度空間中休憩",
+      "Periodic_and_Organized_Events": "學術講座、小型研討會、新書發表或校園展覽 (guess, confidence: 8)",
+      "Informal_Occupations": "在流動的坡道上隨意坐臥、穿越建築底部的非正式路徑穿梭、在中庭周邊聚集"
+    },
+    "Function": {
+      "Associated_Core_Functions": "圖書館、多媒體學習中心、辦公空間、餐廳、禮堂及社交區域",
+      "Programmatic_Ratio": "學習與研究空間佔比最大，輔以流通空間與餐飲服務空間",
+      "Supportive_Infrastructure": "地下停車場入口、資訊服務台、多樣化的家具設備 (如懶骨頭、弧形隔斷書架)"
+    }
+  },
+  {
+    "id": "CASE03_Grace Farms",
+    "Site": {
+      "environment_and_history_context": {
+        "landscape_context": "建築位於大尺度自然園區中，周邊可見草坡、林地、濕地或水域等開放自然環境。",
+        "topography": "基地具有明顯起伏地形，等高線密集，建築量體順應坡地高差展開。",
+        "historical_context": null,
+        "architectural_response": "建築以低矮、水平且連續的曲線屋頂貼合地景，減少對自然環境的視覺壓迫。",
+        "nature_integration": "草坡與屋頂、步道、室內玻璃界面相互連續，使建築像是嵌入地形中的公共路徑。"
+      },
+      "location_and_boundaries": {
+        "site_boundary": "總平面顯示基地邊界不規則，建築分布於基地中部偏左至偏上區域，周圍被大片自然地景包圍。",
+        "edge_condition": "基地邊緣可見道路、停車區與自然林地，建築本體多位於基地內部而非緊貼邊界。",
+        "building_landscape_boundary": "建築邊界多以玻璃帷幕、細柱與屋簷形成半透明界面，室內外邊界被弱化。",
+        "open_space_relation": "建築之間與建築周圍形成連續草地、坡面與步行空間。"
+      },
+      "accessibility_and_infrastructure": {
+        "vehicular_access": "總平面中可見停車場與車道，車行主要集中於基地局部邊緣與建築附近。",
+        "pedestrian_access": "建築本身像一條連續曲線步道，屋簷下形成可步行的遮蔽廊道。",
+        "circulation_connection": "多個館體或節點被同一條蜿蜒屋頂串連，形成由地景導引的步行系統。",
+        "public_arrival": "入口與到達區可能透過停車場、開放廣場與屋簷下空間銜接 (guess, confidence: 7)"
+      }
+    },
+    "Scale": {
+      "physical_area_and_dimension": {
+        "horizontal_scale": "建築以長向、低矮、水平延展為主，屋頂曲線跨越多個空間節點，形成接近地景尺度的連續量體。",
+        "vertical_scale": "多數空間為一至二層左右的低層量體，局部可見較高的室內活動空間或運動場館。",
+        "roof_scale": "屋頂尺度大於室內玻璃盒體，形成寬大的外部遮蔽與廊道。",
+        "site_scale": "基地尺度遠大於建築本體，建築被大片草地、樹林與水域包圍。"
+      },
+      "perceived_scale_and_enclosure": {
+        "openness": "大量玻璃立面與細柱系統讓室內空間保持高度通透，視線可延伸至草地與森林。",
+        "enclosure": "室內主要透過水平木質天花、玻璃牆與地坪形成柔和圍合，而非厚重牆體。",
+        "human_scale": "細柱、低屋簷、連續廊道與家具尺度使空間具有親近人體的使用感。",
+        "landscape_scale": "建築曲線與坡地連續，使空間感知從單一房間擴大到整個園區地景。"
+      },
+      "capacity_classification": {
+        "small_scale_use": "可見小群體在廊道、草坡與休憩座位區活動。",
+        "medium_scale_use": "室內餐飲、會議或教室型空間可容納中等人數聚集。",
+        "large_scale_use": "運動場館與表演／集會型空間可支援較大量人群活動 (guess, confidence: 8)",
+        "overall_capacity": "整體屬於大尺度園區型公共建築，內部包含多種不同容量等級的空間。"
+      }
+    },
+    "Users": {
+      "primary_users": {
+        "community_visitors": "影像中可見一般訪客、家庭、兒童與小群體在草地、廊道與室內空間活動。",
+        "event_participants": "餐廳、會議桌、演講廳與運動場館暗示可服務活動參與者、觀眾或團體使用者 (guess, confidence: 8)",
+        "staff_and_operators": "餐飲、接待、展覽或場館營運需要工作人員支援 (guess, confidence: 7)"
+      },
+      "demographics_and_behavior": {
+        "mixed_age_users": "照片中可見成人、兒童與家庭式使用情境，顯示空間支援混齡活動。",
+        "leisure_behavior": "使用者可在草坡散步、停留、休憩、觀看自然景觀。",
+        "learning_or_gathering_behavior": "室內長桌、座椅與開放空間暗示可進行討論、餐敘、教學或社群活動 (guess, confidence: 8)",
+        "physical_activity_behavior": "室內球場顯示可進行運動或大型活動。"
+      },
+      "temporal_users": {
+        "daily_visitors": "園區可被日常散步、參觀、用餐與休憩的人使用 (guess, confidence: 8)",
+        "event_based_visitors": "演講廳、長桌空間與大型活動場暗示在特定活動時會吸引短時間大量人流 (guess, confidence: 8)",
+        "seasonal_users": "戶外草地、自然景觀與開放廊道可能因天氣與季節產生使用強度變化 (guess, confidence: 7)"
+      }
+    },
+    "Event": {
+      "routine_activities": {
+        "walking": "連續曲線廊道與草地路徑支援散步與慢速移動。",
+        "resting": "室內外座椅、草坡與廊下空間提供停留與休憩。",
+        "dining": "影像中可見餐桌、椅子與用餐型室內空間。",
+        "viewing_landscape": "大面玻璃與開放邊界讓使用者在室內即可觀看草地、森林與遠景。"
+      },
+      "periodic_and_organized_events": {
+        "lectures_or_performances": "可見階梯式座席或演講廳空間，可能用於講座、展演或集會 (guess, confidence: 8)",
+        "sports_events": "大型室內球場可支援運動、兒童活動或社群集會。",
+        "community_events": "多功能大桌空間、開放廊道與草地可支援社區日、工作坊或公共活動 (guess, confidence: 8)"
+      },
+      "informal_occupations": {
+        "sitting_under_canopy": "寬大屋簷下形成半戶外陰影空間，可被使用者自由停留。",
+        "children_playing_on_slope": "照片中可見兒童在草坡上活動，坡地成為非正式遊戲場。",
+        "casual_gathering": "透明立面旁、廊道邊與戶外草地可形成小群體自發聚集。",
+        "wandering_and_exploration": "曲線路徑與連續屋頂引導使用者以探索式方式穿越園區。"
+      }
+    },
+    "Function": {
+      "associated_core_functions": {
+        "community_center": "整體空間具有公共園區與社群中心性質，可支援聚會、學習、休閒與活動 (guess, confidence: 8)",
+        "dining_space": "影像中明確可見餐桌、座椅與開放用餐空間。",
+        "multipurpose_hall": "大型木地板空間與可活動家具暗示可作為多功能活動室 (guess, confidence: 7)",
+        "sports_space": "可見室內球場與運動地坪。",
+        "auditorium": "可見階梯式座位空間，應作為講堂或表演空間使用 (guess, confidence: 8)",
+        "gallery_or_exhibition": "室內可見展示牆面與模型／圖面，可能包含展示功能 (guess, confidence: 7)"
+      },
+      "programmatic_ratio": {
+        "landscape_dominant": "基地中自然地景與開放草地占比高於建築室內空間。",
+        "public_space_ratio": "屋簷下半戶外空間、草坡與廊道構成高度公共性的開放空間。",
+        "interior_program_ratio": "室內機能分散於曲線屋頂下的不同節點，包含餐飲、運動、集會與休憩等複合功能。",
+        "circulation_as_program": "連續步行廊道不只是交通空間，也成為停留、觀看與社交的主要公共機能。"
+      },
+      "supportive_infrastructure": {
+        "parking": "總平面可見停車場配置，支援訪客到達。",
+        "covered_walkway": "連續屋頂提供遮陽避雨的步行基礎設施。",
+        "service_spaces": "餐飲、活動與場館使用應包含後勤、儲藏與管理空間，但圖像中未能明確辨識 (guess, confidence: 6)",
+        "lighting": "夜景影像顯示建築與路徑具有室內外照明系統。",
+        "vertical_connection": "局部可見樓梯與坡地連接，顯示建築處理地形高差與不同樓層。"
+      }
+    }
+  },
+  {
+    "id": "CASE04_KAIT Plaza",
+    "Site": {
+      "環境與歷史脈絡(Context & History)": [
+        "基地位於校園或教育設施環境中，周邊可見操場、球場、校舍與大片開放綠地。",
+        "建築以低矮、水平延展的白色量體嵌入校園景觀，沒有形成明顯的高層地標，而是接近地景化處理。",
+        "周邊既有運動場與樹列形成開放、低密度的校園背景。",
+        "此案可能為神奈川工科大學 KAIT Plaza，由石上純也設計 (guess, confidence 8/10)。推測原因：圖像中的白色薄板屋頂、矩形天窗群與校園配置特徵與該案高度相符。"
+      ],
+      "地理位置與邊界關係(Location & Boundaries)": [
+        "建築位於校園建築群與運動場之間，平面圖中可見其被多棟矩形校舍、棒球場與田徑場包圍。",
+        "量體邊界呈不規則四邊形，並非正交矩形，反映基地邊界或周邊動線的斜向條件。",
+        "建築外部邊界大多封閉，主要以少量入口與低位開口連接外部。",
+        "屋頂與地面幾乎平行延展，形成一個被薄板覆蓋的大型室內空地。"
+      ],
+      "都市可及性與交通連接(Accessibility & Infrastructure)": [
+        "從總平面可見建築位於校園內部，可透過校園道路與步行系統抵達。",
+        "建築周邊沒有顯著汽車停車或車行主導空間，使用方式可能以步行進入為主 (guess, confidence 6/10)。推測原因：圖中基地周邊主要為校園步道、草地、球場與建築，未見大型停車場或車道節點。",
+        "入口似乎設置於量體邊緣，並透過外部小徑與校園空間銜接。",
+        "屋頂大量開口可作為環境基礎設施，引入自然光、天空視野與局部通風 (guess, confidence 7/10)。推測原因：室內照片顯示天窗直接引入光線與外部樹木景觀。"
+      ]
+    },
+    "Scale": {
+      "實體面積與量體(Physical Area & Dimension)": [
+        "建築為單層、大面積、低高度的水平量體。",
+        "平面圖顯示其尺度接近校園大型公共設施，面積遠大於一般教室或小型活動室。",
+        "屋頂由大面積白色板面構成，表面分布大量矩形開口。",
+        "內部沒有明顯柱列或隔間，呈現近似單一大空間的尺度。"
+      ],
+      "空間感知與圍合感(Perceived Scale & Enclosure)": [
+        "室內空間高度偏低，屋頂板壓低視線，使空間具有水平延展與低矮包覆感。",
+        "大量天窗削弱封閉感，讓低矮室內仍保有天空、樹影與自然光的滲入。",
+        "屋頂與地面皆為白色或淺色，使空間邊界被弱化，形成近似無重力、漂浮的感知效果。",
+        "屋頂面與地面呈現微妙起伏，讓空間尺度不是均質大廳，而是由連續坡度與光影差異分節。"
+      ],
+      "容量等級(Capacity Classification)": [
+        "室內可容納小型聚會、展覽、演講、工作坊或校園活動。",
+        "照片中可見座椅排列，顯示空間能支援中型集會或簡報活動。",
+        "平時可容納分散式停留與非正式使用，活動時則可轉換為集中式座席空間。",
+        "容量可推測為中大型校園公共空間等級 (guess, confidence 7/10)。推測原因：照片中空間跨度大、可布置大量椅子，但仍屬單層室內廣場而非大型體育館。"
+      ]
+    },
+    "Users": {
+      "核心目標族群(Primary Users)": [
+        "主要使用者應為校園內學生、教師與校內工作人員 (guess, confidence 7/10)。推測原因：基地位於校園設施群中，且空間形式接近校園公共廣場。",
+        "使用者可包含參與講座、展覽、課程發表或校園活動的人員。",
+        "非活動期間，使用者可能以個人或小群體方式停留、休息、討論或等待 (guess, confidence 7/10)。推測原因：照片中有人席地而坐、小組交談，空間沒有固定家具。"
+      ],
+      "背景與行為特徵(Demographics & Behavior)": [
+        "使用者行為具有高度自由性，可坐、躺、走動、聚集、觀看活動或臨時擺設家具。",
+        "空間沒有強制性的座位或路徑安排，暗示使用者可自行選擇停留位置。",
+        "使用者多以輕量、短時間、彈性的方式占用空間。",
+        "照片中可見小桌、坐墊、椅子等臨時物件，顯示使用行為偏向可變與非固定。"
+      ],
+      "時間性流動(Temporal Users)": [
+        "日常時段可能以零散使用者為主，例如學生休息、等候、討論或穿越 (guess, confidence 6/10)。推測原因：室內照片呈現分散式停留行為。",
+        "活動時段可能轉換為大量使用者集中的公共活動空間。",
+        "空間可在不同時間尺度下切換：日常為開放休憩場，特定時段為活動場、展場或講座場。",
+        "天窗光線會隨時間改變，使使用者停留位置可能受到日照、陰影與舒適度影響。"
+      ]
+    },
+    "Event": {
+      "日常性活動(Routine Activities)": [
+        "步行穿越與校園內部移動。",
+        "席地休息、等待、閱讀、聊天與小組討論。",
+        "臨時擺設小桌或坐墊進行低強度交流。",
+        "透過天窗觀看天空、樹影與外部環境。"
+      ],
+      "週期性與節慶事件(Periodic & Organized Events)": [
+        "講座、發表會或說明會等座席型活動。",
+        "展覽、作品展示或校園成果發表 (guess, confidence 6/10)。推測原因：空間寬闊且無固定隔間，適合臨時展示與活動布置。",
+        "校園集會、開幕式或小型表演 (guess, confidence 5/10)。推測原因：照片中可見座椅排列，但未直接顯示舞台或表演設備。",
+        "工作坊或跨班級交流活動 (guess, confidence 5/10)。推測原因：開放平面與可移動家具支持彈性使用。"
+      ],
+      "自發性非正式行為(Informal Occupations)": [
+        "使用者可在不同天窗下方選擇停留，形成光線導引的非正式聚點。",
+        "地面與屋頂的連續起伏可能創造可坐、可躺、可停留的微地形。",
+        "沒有固定家具使使用者能自由定義活動邊界。",
+        "小群體可在大空間中形成臨時島狀聚集。"
+      ]
+    },
+    "Function": {
+      "附屬核心機能(Associated Core Functions)": [
+        "校園公共廣場。",
+        "室內活動場地。",
+        "休憩與交流空間。",
+        "展覽或發表空間 (guess, confidence 6/10)。推測原因：空間具有大面積無柱開放平面與彈性布置特徵。"
+      ],
+      "複合機能占比(Programmatic Ratio)": [
+        "開放公共使用空間占比極高。",
+        "固定服務空間與封閉房間占比低。",
+        "主要機能不是由房間分隔，而是由光線、屋頂高度、地面坡度與家具配置形成可變區域。",
+        "建築更接近一個可被事件填充的空間容器，而非傳統分室型建築。"
+      ],
+      "基礎設施與服務機能(Supportive Infrastructure)": [
+        "屋頂天窗提供自然採光。",
+        "白色內表面反射光線，增強室內亮度。",
+        "邊緣可能設有入口、儲藏、設備或服務空間 (guess, confidence 4/10)。推測原因：照片中可見邊緣有黑色區塊與紅色門簾，但無法明確判斷其機能。",
+        "建築以大跨距屋頂與薄板空間組織支撐開放平面使用。",
+        "天窗開口同時形成採光、視覺連接與空間定位功能。"
+      ]
+    }
+  },
+  {
+    "id": "CASE05_TOTTEI Green Hill",
+    "Site": {
+      "Context & History": "本設計為一處位於日本神戶港（Kobe Port）突堤末端的濱水公園與公共建築項目。影像背景中可見神戶港美利堅公園東方飯店（Kobe Meriken Park Oriental Hotel）、神戶港塔（Kobe Port Tower）等著名的港區歷史與現代地標，以及周邊運作中的貨運碼頭、大型起重機與通航客輪，顯示該基地承載著深厚的港口工業與都市觀光轉型脈絡。",
+      "Location & Boundaries": "基地座落於一個向海平面延伸的矩形突堤碼頭末梢，其三面完全被寬廣的海域（sea）所包夾。基地的另一側邊界則與新建的大型體育館「GLION ARENA KOBE」及露天地面停車場相鄰，形成了明確的「由都市邁向海洋」的端點景觀。",
+      "Accessibility & Infrastructure": "突堤末端建有流暢的人行環狀步道及大面積的石材鋪面廣場，並延伸出一座懸浮於海面上的親水觀景棧橋。建築本體則透過與緩坡地形合一的立體化路徑，導引人流從地面層、室內大廳、戶外露台一路蜿蜒至屋頂觀景台，創造了極佳的立體親水都市可及性。"
+    },
+    "Scale": {
+      "Physical Area & Dimension": "相較於鄰近體量巨大的「GLION ARENA KOBE」體育館，本項目屬於精緻的景觀建築尺度。基地包含一座大面積的三角形濱海綠色草坪（広場），而主體建築的屋頂則呈現一個沿長軸逐漸收窄、向海面傾斜的巨大三角形斜坡，整體空間尺度開闊且具備強烈的幾何延伸感。",
+      "Perceived Scale & Enclosure": "由於三面臨海，空間感知在水平方向上極致開敞，提供毫無遮擋的180度海景視野。但在垂直方向上，建築師透過將地表紙張般「掀起」的設計概念（手 sketch 概念），創造出一座人工的「綠の丘（綠色山丘）」，為原本平坦的碼頭末端帶來了微地形起伏，營造出兼具地景包裹感與眺望開放性的雙重空間感知。",
+      "Capacity Classification": "具備中大型公眾集會與景觀看台等級的承載力。建築物的斜屋頂完全由階梯式的金屬格柵階梯（Grating Steps）與植栽帶構成，這座巨大的立體看台可同時容納數百人在此席地而坐，面向海面或下方的露天中央草坪，充當自然的戶外觀眾席。"
+    },
+    "Users": {
+      "Primary Users": "核心使用者包含前來神戶港區散步與休閒的市民、國內外觀光客、前往鄰近體育館觀賽或參與活動的延伸人潮、喜好濱海攝影的青年族群，以及前來溜狗、漫步的鄰近社區居民。",
+      "Demographics & Behavior": "使用者表現出多元且悠閒的行為圖譜。影像中可見民眾三三兩兩在草坪上野餐、眺望海景；有人在懸挑的二層露台與屋頂觀景步道上憑欄迎風、交談、拍攝遠方的神戶城市天際線；也有家長帶著孩童在起伏的階梯與緩坡間進行微地形的立體探索。",
+      "Temporal Users": "具有高度的時間流動彈性。白日陽光充沛時，此處是市民親水、曬太陽與漫步的開放性公園；由於該建築具備通透的玻璃帷幕大廳以及多層級的戶外平台，預計在傍晚黃昏或鄰近 Arena 舉辦大型賽事演出的前後，會迎來一波等待夕陽、夜景或人流疏散的突發性群眾聚集高峰（guess，信任度: 9）。"
+    },
+    "Event": {
+      "Routine Activities": "日常行為包含海濱漫步、自主跑步、長椅佇立休憩、情侶約會、海景寫生與攝影，以及在建築室內通透的挑高大廳內進行靜態的休憩與觀景。",
+      "Periodic & Organized Events": "根據概念草圖中標註的「ステージ（Stage/舞台）」與寬廣草坪的相對關係，建築前的平坦廣場非常適合舉辦港區音樂節、戶外市集、露天電影院、小型體育嘉年華，而其綠色斜屋頂（綠の丘）則完美充當了天然的階梯觀客席。",
+      "Informal Occupations": "市民自發性地占有這座立體地景。青年男女將鋼結構扶手與大段階梯平台當作即興攝影的背景；有人自發在延伸出海面的平台端點佇立思索；階梯格柵的間隙與其下方遮蔽出的灰空間，也自然成為人們躲避烈日、吹拂海風的非正式身體庇護所。"
+    },
+    "Function": {
+      "Associated Core Functions": "核心機能為「都市濱海親水公園」與「立體化地景觀景台（賑わい拠点/休閒活動據點）」的有機複合。建築本身不再是一座封閉的盒子，而是將室內公共大廳、展示空間與戶外的地景看台、屋頂公園完全融為一體。",
+      "Programmatic Ratio": "空間機能占比以絕對的公眾開放空間為主。戶外大草坪、濱海步道、觀景棧橋與完全向公眾開放的階梯式綠化斜屋頂（綠の丘）約佔總面積的 80-85%；室內通透的鋼結構挑高多功能廳、服務諮詢與機房管理設施則佔其餘的 15-20%。",
+      "Supportive Infrastructure": "基礎支撐設施包含：沿著碼頭邊緣設置的防護欄杆、整合於金屬格柵階梯內的微型植栽槽與灌溉管線系統、維持建築通透感兼具結構支撐的細鋼柱（Steel Columns）、夜間景觀照明設備，以及室內提供全天候遮蔽與公共化妝室、空調的服務性基盤。"
+    }
+  },
+  {
+    "id": "CASE06_SANKITA SQUARE",
+    "Site": {
+      "Context_and_History": "Located in a dense urban commercial district in Japan (indicated by Japanese signage like 'ジャンカラ' and 'docomo'). The site appears to be a station-front plaza or a renovated public square adjacent to a railway viaduct (guess, confidence: 9).",
+      "Location_and_Boundaries": "Situated at a junction between mid-to-high-rise commercial buildings and a major transportation corridor. The plaza is bounded by active street fronts and a pedestrian-heavy transit node (guess, confidence: 8).",
+      "Accessibility_and_Infrastructure": "High urban accessibility; integrated with pedestrian paths. Visible infrastructure includes a train viaduct in the background and typical urban utilities (bollards, traffic cones, signage)."
+    },
+    "Scale": {
+      "Physical_Area_and_Dimension": "A medium-sized urban pocket park/plaza. The sculptural pavilion has a wingspan of approximately 8-12 meters and a height of 2.5-3 meters, maintaining a human-centric scale (guess, confidence: 7).",
+      "Perceived_Scale_and_Enclosure": "The open-air plaza provides a sense of release within a dense vertical context. The low-profile, organic sculptures create 'soft boundaries' rather than rigid enclosure.",
+      "Capacity_Classification": "Small to medium gathering capacity. Suitable for 50-100 standing people or 10-20 people utilizing the seating/shade structures simultaneously."
+    },
+    "Users": {
+      "Primary_Users": "Transit commuters, office workers, shoppers, and local youth (guess, confidence: 9).",
+      "Demographics_and_Behavior": "Predominantly urban pedestrians. Users exhibit 'staying' behavior (sitting, lying down on the structures) and 'passing through' behavior.",
+      "Temporal_Users": "High flux during morning/evening commute; likely leisure-oriented use during afternoon and weekends."
+    },
+    "Event": {
+      "Routine_Activities": "Resting, waiting for transit, checking mobile devices, and incidental social interaction.",
+      "Periodic_and_Organized_Events": "The open pavement suggests suitability for small pop-up markets or street performances (guess, confidence: 6).",
+      "Informal_Occupations": "Users are seen lying down on the curved surfaces, treating the architecture as an oversized piece of urban furniture (unstructured lounging)."
+    },
+    "Function": {
+      "Associated_Core_Functions": "Public transit node assistance, urban cooling (shade), and aesthetic landmark/wayfinding.",
+      "Programmatic_Ratio": "Primary: Circulation (60%), Secondary: Passive Recreation/Seating (30%), Tertiary: Aesthetic/Artistic Expression (10%) (guess, confidence: 7).",
+      "Supportive_Infrastructure": "Integrated benches, shaded pavilions, integrated planters for urban greenery, and durable stone-patterned paving."
+    }
+  },
+  {
+    "id": "CASE07_SHUKUSAI HIROBA",
+    "Site": {
+      "Context_and_History": "Located in a dense urban commercial district with mid-to-high-rise buildings, likely in Japan (based on Japanese text in the plan). It functions as a public plaza adjacent to a major roadway.",
+      "Location_and_Boundaries": "The site is bounded by a main road on one side and commercial buildings on the others. It features an 'Environmental Adjustment Wall' (20m wide, 12m high) acting as a buffer.",
+      "Accessibility_and_Infrastructure": "High accessibility with a dedicated bicycle sharing port (22 slots) and extensive bicycle parking (approx. 100 slots). Pedestrian flow is integrated with the city sidewalk."
+    },
+    "Scale": {
+      "Physical_Area_and_Dimension": "Total plaza area is approximately 4,309m². Features a large steel-frame roof (19m long, 16-18m wide, 8-11m high) and a grass area of 414m².",
+      "Perceived_Scale_and_Enclosure": "The large overhead canopy creates a 'semi-indoor' sense of enclosure while maintaining a high vertical volume. The plaza feels expansive due to the flat paving and low-level movable furniture.",
+      "Capacity_Classification": "Large-scale public assembly space capable of hosting hundreds of people simultaneously for events or daily transit."
+    },
+    "Users": {
+      "Primary_Users": "Commuters, shoppers, students (seen in uniforms), and local residents.",
+      "Demographics_and_Behavior": "Diverse age groups including students performing/gathering, families with children on the lawn, and individuals resting in deck chairs.",
+      "Temporal_Users": "Varies from transient commuters during rush hours to stationary users (reading, resting) and event participants during weekends."
+    },
+    "Event": {
+      "Routine_Activities": "Resting, bicycle parking, waiting, and pedestrian transit through the gridded pavement area.",
+      "Periodic_and_Organized_Events": "Organized performances or ceremonies using the 'Assembly Stage' (9m x 5.4m) and tent setups under the canopy.",
+      "Informal_Occupations": "Spontaneous gatherings of students, children playing on the grass, and individuals using movable furniture for leisure."
+    },
+    "Function": {
+      "Associated_Core_Functions": "Public transit hub (bike sharing), assembly space (stage/canopy), and urban green space (lawn).",
+      "Programmatic_Ratio": "Approximately 10% softscape (grass/greenery), 90% hardscape (plaza/parking/infrastructure) (guess, confidence: 9).",
+      "Supportive_Infrastructure": "Includes a toilet building (Men's, Women's, Multi-functional), storage, and movable amenities like parasols, tables (20 sets), and deck chairs (10 units)."
+    }
+  },
+  {
+    "id": "CASE08_逗子第一運動公園",
+    "Site": {
+      "Context_History": "位於近郊或鄉村邊緣的綠地環境，鄰近山丘與植被，基地內保留既有大樹並整合景觀丘 (guess, Confidence: 8)",
+      "Location_Boundaries": "建築物呈長條帶狀延伸，北側或西側鄰接既有林地或公園，南側鄰接外部道路與帶狀停車場",
+      "Accessibility_Infrastructure": "具備完整的外部道路聯通與大型停車場規劃，建築內部透過連續的長廊連接不同量體，形成高度可及的室內外流動路徑"
+    },
+    "Scale": {
+      "Physical_Area_Dimension": "單層長條形建築，面寬極大，包含一座大型體育館、多功能活動教室與行政辦公空間 (guess, Confidence: 9)",
+      "Perceived_Scale_Enclosure": "透過壓低簷口高度與深遠的大屋簷，創造出具親和力的人類尺度，模糊了室內與半戶外廣場的邊界感",
+      "Capacity_Classification": "可容納大型公眾集會、體育活動以及多組小型社區活動同時進行的中大型社區公共設施"
+    },
+    "Users": {
+      "Primary_Users": "涵蓋當地各年齡層居民，特別是以孩童（幼兒園/小學生）與高齡者為核心 (guess, Confidence: 9)",
+      "Demographics_Behavior": "使用者群體展現出跨世代的互動特性，包含玩耍的兒童、休憩的家長及參與運動的成人",
+      "Temporal_Users": "日間以社區課程與幼兒活動為主，傍晚或假日則轉為家庭休憩與體育賽事使用 (guess, Confidence: 7)"
+    },
+    "Event": {
+      "Routine_Activities": "日常的戶外運動（如跑步、草地遊樂）、室內體育課程、社區行政辦公與會議",
+      "Periodic_Organized_Events": "定期體育賽事、季節性戲水活動（平面圖示有泳池/水域）、社區節慶市集 (guess, Confidence: 8)",
+      "Informal_Occupations": "居民在簷下長廊散步休憩、利用景觀小丘滑草或在半戶外廣場自由停留"
+    },
+    "Function": {
+      "Associated_Core_Functions": "主要機能包含體育館、辦公室、多功能活動室及外部遊憩場",
+      "Programmatic_Ratio": "體育與行政機能約占 50%，戶外與半戶外流通空間占 40%，服務性附屬空間占 10% (guess, Confidence: 7)",
+      "Supportive_Infrastructure": "包含公共廁所、淋浴間（對應運動/水域機能）、大型停車場及與地景整合的排水系統"
+    }
+  },
+  {
+    "id": "CASE09_有明都市運動公園",
+    "Site": {
+      "Context & History": "平面配置圖與透視圖顯示，此基地為一個以「都市運動與休閒市集」為主題的複合式園區（包含Skateboard Park、Boulder Gym與Urban Market等機能）。從「ARIAKE SPORTS FES」的賽事看版與周邊平坦開闊的臨海或臨港地形特徵推斷，該基地極可能位於東京有明（Ariake）等新興臨海填海造陸地區（guess，執行度: 9）。",
+      "Location & Boundaries": "整個園區由兩大主要街區版塊構成。左側版塊主要配置大型運動場地（抱石館、籃球場、滑板場），其邊界呈現不規則梯形並緊鄰帶狀綠化樹木；右側版塊則由市集廣場、市集貨櫃與大型跑道體育館組成，右側設有明確的露天汽機車停車場（P）作為基地邊界。",
+      "Accessibility & Infrastructure": "園區設有明確的立體引導系統。右側版塊右下角設有主入口（ENTRANCE）並標註「YOU ARE HERE」告示牌，入口旁規劃有專屬腳踏車停放區。主要動線藉由寬闊的弧形步道橫向貫穿「ACTLOW URBAN MARKET」市集核心區，提供良好的無障礙都市可及性。"
+    },
+    "Scale": {
+      "Physical Area & Dimension": "從平面圖上配置的標準「3x3籃球場（3x3 BASKETBALL COURT）」、雙規格滑板場（Skateboard Park）以及右側的大型基礎對比，此基地總面寬粗估達150至200公尺（guess，執行度: 8），屬於中大型尺度的都市開放型運動主題園區。",
+      "Perceived Scale & Enclosure": "空間感知具有高開闊度與機能內聚性的雙重特徵。滑板場與市集區屬於完全開敞的露天廣場面積，視野可直接穿透至遠方的都市高層建築與高架道路。而「BOULDER GYM（抱石館）」與「Brillia RUNNING STADIUM（跑步體育館）」則透過長條形的輕量化大棚架或室內鋼結構，為使用者提供遮風避雨、水平延伸感強烈的包裹性亞熱帶/微氣候室內尺度。",
+      "Capacity Classification": "具備城市級賽事與大型節慶的承載等級。從戶外滑板賽事透視圖可見，場地周邊配置有高聳的階梯式臨時看台、無障礙輪椅觀賽專區，能同時容納數百至上千名觀眾在此集體歡呼、觀賽，屬於高容量的公共集會等級。"
+    },
+    "Users": {
+      "Primary Users": "核心目標族群為極限運動愛好者（滑板選手、街頭籃球員、攀岩/抱石愛好者）、前來休閒運動的跑者、身心障礙運動員，以及前往都市市集與BBQ烤肉區的假日家庭、年輕消費族群。",
+      "Demographics & Behavior": "使用者表現出高度的身體動能。包含在專業碗池與街式滑板場（Skateboard Park）內進行騰空特技的滑板手、在色彩鮮明的高聳室內攀岩牆（Boulder Gym）上尋找路線的抱石者，以及在看台上揮手歡呼、拍照的觀賽群眾。",
+      "Temporal Users": "具有強烈的時間波動性。平日以常態性的運動自主訓練者、抱石館會員為主；而到了週末或「ARIAKE SPORTS FES」等週期性賽事舉辦期間，預計會湧入大量外來觀光客、家庭號人口與市集攤商，使「ACTLOW URBAN MARKET」與觀賽看台區的人口密度達到高峰（guess，執行度: 9）。"
+    },
+    "Event": {
+      "Routine Activities": "日常行為包括攀岩抱石訓練、滑板碗池練習、3對3籃球鬥牛、在「Brillia RUNNING STADIUM」內進行短跑田徑自主訓練，以及市民在「BBQ AREA」與「Pacific PICKLE CLUB」進行的日常休閒餐飲調劑。",
+      "Periodic & Organized Events": "以「ARIAKE SPORTS FES（有明運動節）」為代表，園區定期舉辦大型極限運動公開賽、滑板巡迴表演賽、戶外大型市集（ACTLOW URBAN MARKET）以及企業贊助的體育嘉年華，並透過大型LED電子螢幕進行賽事轉播。",
+      "Informal Occupations": "在沒有賽事的日常，滑板場邊緣的矮牆、樓梯扶手常被愛好者自發性轉化為特技練習道具；市集通道的微地形段差與看台下方陰影處，常成為青少年滑板歇息、交流或聚會的非正式非正式身體領域占有。"
+    },
+    "Function": {
+      "Associated Core Functions": "核心機能為「極限運動競技」與「都市主題市集商圈」的跨界複合。園區成功將專業的運動場館設施與自發性的消費、娛樂空間（BBQ、貨櫃商店1-10號、Restroom）縫合在一起。",
+      "Programmatic Ratio": "從平面佈局來看，開放式的露天運動場地與公共廣場市集（Skateboard Park、Market Lane、3x3 Court）約佔整體面積的60-65%；具備結構外殼的室內場館（Boulder Gym、Running Stadium）與附屬服務設施（停車場、管理化妝室）則佔其餘的35-40%。",
+      "Supportive Infrastructure": "完善的基礎支撐設施包括：夜間高杆照明探照燈（提供夜間滑板與球場安全照明）、接待服務處與廁所（RECEPTION RESTROOM）、無障礙觀賽看台坡道、專屬自行車與汽車停車位，以及市集區編號1至10號的獨立商業貨櫃基礎管線，共同維繫整個運動主題園區的營運服務機能。"
+    }
+  },
+  {
+    "id": "CASE10_Machida Shikisai no Mori",
+    "Site": {
+      "環境與歷史脈絡(Context & History)": {
+        "analysis": [
+          "基地位於自然公園／森林邊緣環境中，周邊可見大片樹林、草坡、水池與步道系統。",
+          "整體配置以低量體建築分散於自然地景之中，建築並非主導基地，而是作為園區遊憩與服務節點。",
+          "圖面標示包含樂妙寺公園、池塘、草坡與多條園路，顯示此案與既有公園景觀系統高度整合。",
+          "園區可能是以自然觀光、休憩、地方農產品或社區交流為主要定位的公共設施群 (guess, 信心程度: 7/10，原因：平面標示有直售所、咖啡餐廳、圖書休憩、工坊等機能，且配置在公園環境中)。"
+        ]
+      },
+      "地理位置與邊界關係(Location & Boundaries)": {
+        "analysis": [
+          "基地一側鄰接道路與停車場，另一側連接草坡、林地與水域景觀。",
+          "建築群位於道路與自然公園之間，形成由車行抵達轉入步行遊憩的過渡帶。",
+          "建築以分棟方式嵌入園區，不形成連續封閉邊界，而是讓步道、庭院與植栽穿插其中。",
+          "基地邊界並非以牆體明確劃分，而是透過林帶、坡地、道路與水體形成柔性邊界。"
+        ]
+      },
+      "都市可及性與交通連接(Accessibility & Infrastructure)": {
+        "analysis": [
+          "園區配置可見東側、西側與中央停車場，顯示主要以汽車抵達，再轉為步行活動。",
+          "主要步行路徑由停車場連接直售所、咖啡餐廳、圖書休憩、工坊、草坡與池塘。",
+          "基地內有蜿蜒步道與坡道，強調慢行、散步與遊憩式移動。",
+          "圖面可見電梯與室外步道系統，顯示部分高差可能透過垂直交通輔助連接。",
+          "自行車停車空間被標示於總平面中，表示基地可能同時支援自行車到訪 (guess, 信心程度: 8/10，原因：圖例明確標示 Bicycle Parking)。"
+        ]
+      }
+    },
+    "Scale": {
+      "實體面積與量體(Physical Area & Dimension)": {
+        "analysis": [
+          "建築皆為一層樓低矮量體，最大高度約為 4.296m、4.921m、5.095m。",
+          "Information／Direct Sales Store 總樓地板面積約 151.13㎡。",
+          "Library／Lounge 總樓地板面積約 121.72㎡。",
+          "局部空間面積包含 Product sales corner 7㎡、Exhibition corner 18.63㎡、Lounge 49.27㎡。",
+          "園區尺度大於單一建築尺度，建築量體被拆分為多個小型服務盒體，降低對自然環境的壓迫感。"
+        ]
+      },
+      "空間感知與圍合感(Perceived Scale & Enclosure)": {
+        "analysis": [
+          "建築內部為挑高斜屋頂空間，雖然平面面積不大，但室內感受具有開放與舒緩的尺度。",
+          "大面窗將視線引向庭園與林地，使室內空間感延伸到戶外。",
+          "建築外部藉由樹林、草坡與步道形成半開放的圍合感，而非硬質廣場式圍合。",
+          "Dandan Terrace、草坡與池畔空間提供較開放的大尺度活動場域；圖書休憩、直售所與工坊則提供較小尺度、安靜或明確機能的室內場域。",
+          "整體空間感介於公園與小型村落之間，呈現分散、低密度、可漫遊的尺度經驗 (guess, 信心程度: 8/10，原因：建築分棟配置、步道串連、低矮屋頂與大量綠地共同形成類聚落感)。"
+        ]
+      },
+      "容量等級(Capacity Classification)": {
+        "analysis": [
+          "單棟建築容量屬小型公共服務空間，適合少量到中等人數使用。",
+          "直售所與咖啡餐廳可容納較高流動性的短暫停留人群。",
+          "Library／Lounge 的座位配置顯示適合小團體閱讀、休息與交談。",
+          "草坡、步道與戶外平台可承載較分散的戶外遊憩人流。",
+          "整體園區容量應以分散式承載為主，而非集中式大型集會 (guess, 信心程度: 7/10，原因：圖面未見大型室內集會廳，但可見多個小型建築與開放草地)。"
+        ]
+      }
+    },
+    "Users": {
+      "核心目標族群(Primary Users)": {
+        "analysis": [
+          "公園遊客與散步者。",
+          "前往直售所購買產品的消費者。",
+          "使用咖啡餐廳、圖書休憩與工坊的停留型訪客。",
+          "親子、家庭與一般觀光客可能是主要使用者之一 (guess, 信心程度: 7/10，原因：園區有草坡、池塘、步道、休憩與餐飲機能，適合家庭型遊憩)。",
+          "地方居民可能作為日常散步、休憩與購物使用者 (guess, 信心程度: 6/10，原因：基地與公園及道路連接，但圖面未直接標示住宅區或居民活動)。"
+        ]
+      },
+      "背景與行為特徵(Demographics & Behavior)": {
+        "analysis": [
+          "使用者行為包含步行、停留、觀景、閱讀、用餐、購物與參與工坊活動。",
+          "使用者多以低速移動與短時間停留為主，並在不同建築節點之間切換活動。",
+          "室內空間提供遮蔽、休息與消費；戶外空間提供散步、觀景與親近自然。",
+          "Library／Lounge 內的桌椅與書架配置顯示使用者可能有閱讀、討論或安靜休息需求。",
+          "Cafe／Restaurants 與 Direct Sales Store 則對應較高互動性與消費性行為。"
+        ]
+      },
+      "時間性流動(Temporal Users)": {
+        "analysis": [
+          "日間使用為主要狀態，照片與圖面皆強調自然光、戶外景觀與公園活動。",
+          "平日可能以地方居民、少量遊客與工作人員為主 (guess, 信心程度: 6/10，原因：公共公園與服務設施通常有平日低強度使用，但圖面未顯示營運時段)。",
+          "假日或旅遊季可能出現較高人流，集中於停車場、餐飲、直售所與池畔步道 (guess, 信心程度: 7/10，原因：基地具觀光休憩、公園與商業服務機能)。",
+          "季節性使用明顯，水池、森林與秋色景觀可能使不同季節形成不同遊憩強度 (guess, 信心程度: 6/10，原因：照片呈現秋季景觀，但未有營運資料)。"
+        ]
+      }
+    },
+    "Event": {
+      "日常性活動(Routine Activities)": {
+        "analysis": [
+          "步道散步與公園遊憩。",
+          "在直售所購買地方產品或展示商品。",
+          "在咖啡餐廳用餐、休息與交談。",
+          "在圖書休憩空間閱讀、等候、交談或安靜停留。",
+          "使用戶外草坡、露台與池畔進行觀景與休憩。",
+          "工作人員於辦公、倉儲、廁所、設備空間與服務後場進行日常維運。"
+        ]
+      },
+      "週期性與節慶事件(Periodic & Organized Events)": {
+        "analysis": [
+          "Lab／Workshop 顯示園區可能舉辦手作、教育或體驗型活動 (guess, 信心程度: 8/10，原因：圖面明確標示 Lab／Workshop，但未列出具體活動內容)。",
+          "Dandan Terrace 與草坡可能承載小型戶外活動、表演或集會 (guess, 信心程度: 6/10，原因：戶外開放空間具活動潛力，但圖面未標示活動舞台或正式集會設施)。",
+          "直售所與餐飲空間可能配合地方物產、市集或季節性活動使用 (guess, 信心程度: 6/10，原因：有 Product sales corner 與餐飲機能，但未見市集攤位配置)。",
+          "園區可能因花季、秋季景觀或假日旅遊形成週期性高峰 (guess, 信心程度: 5/10，原因：照片呈現季節景觀，但沒有活動時程資訊)。"
+        ]
+      },
+      "自發性非正式行為(Informal Occupations)": {
+        "analysis": [
+          "使用者可在步道邊、草坡、露台、池畔與建築外緣自發停留。",
+          "戶外空間可能出現拍照、聊天、休息、等待同伴、觀看風景等非正式行為。",
+          "建築分棟之間的路徑節點可形成短暫聚集與方向選擇的停頓點。",
+          "Library／Lounge 的家具配置支援彈性坐姿與小團體聚集。",
+          "半戶外與窗邊位置可能成為觀景、獨處或安靜停留的偏好區域 (guess, 信心程度: 7/10，原因：照片與平面皆顯示大窗、自然景觀與休憩家具)。"
+        ]
+      }
+    },
+    "Function": {
+      "附屬核心機能(Associated Core Functions)": {
+        "analysis": [
+          "Information／Direct Sales Store：資訊服務、接待、展示、產品銷售、辦公與哺乳室等。",
+          "Library／Lounge：閱讀、休憩、交流、廁所與後場儲藏。",
+          "Cafe／Restaurants：餐飲、停留與面向園區景觀的消費活動。",
+          "Lab／Workshop：工作坊、體驗、學習或展示製作活動。",
+          "Backyard：後場服務、設備、倉儲與廁所。",
+          "Dandan Terrace、Lawn、Zigzag Slope、Scenic Spot、Scenic Field：戶外休憩、觀景、散步與地景體驗。"
+        ]
+      },
+      "複合機能占比(Programmatic Ratio)": {
+        "analysis": [
+          "整體機能由戶外公園景觀與低密度室內服務設施共同構成。",
+          "戶外開放空間在基地中占比明顯高於建築室內面積。",
+          "建築機能可分為商業消費、休憩閱讀、餐飲、工作坊與後勤服務。",
+          "室內空間主要作為公園遊憩的支援節點，而非獨立目的地。",
+          "商業與公共休憩機能比例接近，形成觀光服務與社區公共性的混合使用 (guess, 信心程度: 6/10，原因：可見直售、餐飲、圖書休憩與工坊，但缺乏完整面積統計)。"
+        ]
+      },
+      "基礎設施與服務機能(Supportive Infrastructure)": {
+        "analysis": [
+          "基地設有東側、西側與中央停車場。",
+          "設有自行車停車空間。",
+          "多棟建築內配置廁所、無障礙廁所、男性廁所、女性廁所與多功能廁所。",
+          "設有電梯作為垂直交通或高差連接設施。",
+          "設有儲藏室、室外機置場與設備後場。",
+          "園區內步道、坡道、階梯與橋梁共同形成基礎動線網絡。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "CASE11_シーパスパーク（SHEEPATH PARK）",
+    "Site": {
+      "Context & History": "シーパスパーク（SHEEPATH PARK）は、大阪府泉大津市に位置する都市公園です。2023年6月に竣工しました。",
+      "Location & Boundaries": "敷地北側は府道大阪臨海線および小松緑道、泉大津円形スケートパークに隣接しています。南側は「さくら通り（SAKURA STREET）」に面しており、東側には小松町4号線が通っています。敷地内は「公園用地（赤破線）」と「民間活用用地（青破線）」、および「魅力向上提案事業用地」の境界線によってエリアが区分されています。",
+      "Accessibility & Infrastructure": "北側の小松緑道からは「小松みどり橋」を介してアクセスが可能です。南側には「さくらエントランス」、西側には「ガーデンエントランス」、東側には「パークエントランス」が設けられており、多方向からの高い都市的可及性が確保されています。また、敷地内には「海側駐車場」および「山側駐車場」のインフラが整備されています。"
+    },
+    "Scale": {
+      "Physical Area & Dimension": "総敷地面積は約35,200m2。その内訳は、公園用地が約20,400m2、民間活用用地が約14,800m2となっており、縮尺1:1000（A3時は1:200や1:100の断面詳細あり）の広大なスケールを持つ平坦〜微地形のオープンスペースです。",
+      "Perceived Scale & Enclosure": "「おおはらっぱ」や「こもれびはらっぱ」といった開放的な大空間が広がる一方、「すりばちシアター」の緩やかな地形の凹凸、人工的な傾斜を持つ「シーパス山」、植栽が密度高く配置された「実りの森」や「くすのきマウンド」によって、オープンでありながらも緩やかに囲合された立体的な空間感知がもたらされています。",
+      "Capacity Classification": "「すりばちシアター」前の芝生広場では、数十〜百人規模の観客がレジャーシートを敷いたり椅子を並べたりしてイベントを鑑賞できる広場等級のキャパシティを備えています。また、日常的な散策や子どもの遊び場として、地域住民を大量に受け入れる十分な容量を持っています。"
+    },
+    "Users": {
+      "Primary Users": "幼児、小学生などの子どもたち、およびその保護者（ファミリー層）がコアなターゲット層です。また、車いすを利用する身体障害者や、楽器演奏を行う地域のシニア・成人層まで幅広い市民がメインユーザーとなっています。",
+      "Demographics & Behavior": "市民ワークショップの意見（アビリティセンター、ヘルシーパーク、リビングラボの3要素）を反映した設計となっており、子どもたちは傾斜を滑り降りたり（芝滑り）水辺で遊んだりし、大人は芝生に座ってくつろぐ、歩行・散策する、あるいは車いすでイベントに参加するといった、多様なアクティビティが展開されています。",
+      "Temporal Users": "平日の日中はベビーカーを押す保護者や幼児、放課後は小学生などの利用が中心であると推察されます（guess、信頼度: 8）。一方、断面図や写真に描かれているような音楽イベントやフェスティバル（お祭りプラザ等）の開催時には、一時的に周辺地域から多様な年齢層の群衆が流入する時間的流動性を持っています。"
+    },
+    "Event": {
+      "Routine Activities": "日常的な行為として、「おおはらっぱ」での散策やジョギング、ベンチや芝生での「休憩する」「座る」「くつろぐ」行動、「ひつじのせせらぎ」での「水遊び」、「ファームハウス・めーでるガーデン」でのコミュニティ園芸などが日常的に行われています。",
+      "Periodic & Organized Events": "「すりばちシアター」と一体となった「パークセンター」のステージを利用した地域の音楽祭・演奏会、および南東側の「お祭りプラザ」での地域フェスティバルやマルシェなどの定期的・組織的イベントが計画されています。",
+      "Informal Occupations": "「シーパス山」の人工芝斜面を利用した子どもたちの自発的な「滑る（芝滑り）」「転がる」「駆け上がる」行為や、「どろんこリング」での泥遊び、広場でのヨガやダンスの練習、水辺のデッキテラスでの即興的な佇まいなど、多様な非正式行為を誘発する空間構造になっています。"
+    },
+    "Function": {
+      "Associated Core Functions": "中核機能として、市民の休息・レクリエーションを支える「パークセンター（多目的ルーム、女子更衣室、管理事務所、デッキテラスを内包）」、飲食を提供する「レストラン」、地域コミュニティを育む「リトルヴィレッジ」が配置されています。",
+      "Programmatic Ratio": "敷地全体の約58%（20,400m2 / 35,200m2）を占める広大な「公園（緑地・広場・水景）」機能に対し、約42%（14,800m2）が民間商業・便益施設（レストラン、リトルヴィレッジ、駐車場など）に充てられており、公共性と収益・利便性を両立する複合的なプログラム比率となっています。",
+      "Supportive Infrastructure": "「パークセンター」内のトイレや管理室、各所に配置された駐輪スペース（「駐輪する」）、海側・山側の大型駐車場、および夜間の安全性を確保する照明設備（LEM空間工房が協力）や案内サイン（UMA/design farmが協力）が、公園全体のサービス機能を支える基礎的なインフラとして機能しています。"
+    }
+  },
+  {
+    "id": "CASE12_Ginza Sony Park",
+    "Site": {
+      "environment_and_historical_context": {
+        "visible_evidence": [
+          "圖像顯示此案位於高密度都市商業區，周邊有大型商業建築、辦公大樓與道路交會口。",
+          "圖片文字顯示基地經歷三個階段：Sony Building 1966.4–2017.3、Ginza Sony Park 2018–2021.9、Ginza Sony Park 2025–。",
+          "基地從原本的高層商業建築，轉為低矮開放的城市公園，再轉為新的低層複合建築。"
+        ],
+        "inferred_reading": [
+          "此案保留了『城市轉角』作為公共介面的角色，並將原本封閉的商業量體轉化為較開放的公共空間節點。(guess, confidence: 8/10)",
+          "2025 年新建築延續 2018 年 Ginza Sony Park 的公共性，但重新加入可營運的室內／半室內機能。(guess, confidence: 7/10)"
+        ]
+      },
+      "location_and_boundaries": {
+        "visible_evidence": [
+          "基地位於多條道路交會的街角，至少兩側直接面向主要道路與人行道。",
+          "建築邊界緊貼都市街廓，與相鄰建築距離很近。",
+          "外部立面以半透明或網格狀外皮包覆，形成柔化的邊界。"
+        ],
+        "inferred_reading": [
+          "基地轉角處具有高度可見性，適合作為城市地標與人流匯聚點。(guess, confidence: 8/10)",
+          "建築沒有以厚重牆面直接封閉街道，而是透過外框架、半透明表皮與退縮空間創造較開放的都市邊界。(guess, confidence: 8/10)"
+        ]
+      },
+      "accessibility_and_infrastructure": {
+        "visible_evidence": [
+          "圖中可見大量斑馬線、車道、人行道與街角開放空間。",
+          "基地正對大型交叉路口，周邊有明顯的人行穿越動線。",
+          "建築內部可見樓梯、平台、下沉空間與多層步行路徑。"
+        ],
+        "inferred_reading": [
+          "此案可能利用街角位置吸收來自多方向的人流，並將人流導入建築內部的垂直公共空間。(guess, confidence: 8/10)",
+          "下沉空間與樓梯系統可能連接地下層或都市基礎設施，如地下街、展演空間或交通節點。(guess, confidence: 6/10)"
+        ]
+      }
+    },
+    "Scale": {
+      "physical_area_and_dimension": {
+        "visible_evidence": [
+          "2025 年建築相較周邊高層商業大樓明顯較低，約為中低層量體。",
+          "建築占據完整街角基地，平面規模接近一個小型都市街區轉角基地。",
+          "室內照片顯示空間具有多層樓板、挑空、寬大樓梯與大型結構構件。"
+        ],
+        "inferred_reading": [
+          "建築刻意壓低高度，使其在銀座高密度街區中形成較低矮、可停留的公共空間尺度。(guess, confidence: 8/10)",
+          "量體不是單純向上發展，而是透過地下、地面與屋頂平台形成垂直疊層的公共空間。(guess, confidence: 7/10)"
+        ]
+      },
+      "perceived_scale_and_enclosure": {
+        "visible_evidence": [
+          "外部白色網格包覆建築，使量體邊界呈現半透明與輕量感。",
+          "內部空間以粗獷混凝土、深色天花、斜向樓梯與下沉平台形成強烈的圍合感。",
+          "樓梯與平台尺度較大，呈現接近城市基礎設施的空間感。"
+        ],
+        "inferred_reading": [
+          "外部感知偏輕盈、開放，內部感知則偏厚重、地下化與劇場化。(guess, confidence: 8/10)",
+          "建築同時操作兩種尺度：街道上的輕量公共外殼，以及內部如地景般的大尺度剖面空間。(guess, confidence: 8/10)"
+        ]
+      },
+      "capacity_classification": {
+        "visible_evidence": [
+          "街角廣場、寬樓梯、平台與下沉空間可容納多人停留或移動。",
+          "空間尺度大於一般店鋪入口，接近小型公共廣場或活動空間。",
+          "圖中沒有看到固定座席或明確大型展演座位配置。"
+        ],
+        "inferred_reading": [
+          "容量等級可判斷為中型都市公共空間，可支援日常通行、停留與小型活動聚集。(guess, confidence: 7/10)",
+          "不屬於大型公園或大型廣場，而是嵌入高密度商業區中的垂直型微型公共節點。(guess, confidence: 8/10)"
+        ]
+      }
+    },
+    "Users": {
+      "primary_users": {
+        "visible_evidence": [
+          "圖中可見行人、街角穿越者與可能進入建築的訪客。",
+          "基地周邊為商業建築密集區，街道人流明顯。",
+          "建築名稱與圖片文字顯示其與 Sony 品牌相關。"
+        ],
+        "inferred_reading": [
+          "核心使用者可能包含城市行人、商業區上班族、遊客、品牌訪客與活動參與者。(guess, confidence: 8/10)",
+          "此案不只服務單一消費者，而是同時面向路過者、停留者與進入展覽／活動空間的人。(guess, confidence: 7/10)"
+        ]
+      },
+      "demographics_and_behavior": {
+        "visible_evidence": [
+          "外部街角與人行道開放，沒有明顯門禁或圍牆。",
+          "內部有多層樓梯與平台，可支援步行、觀看、停留與上下移動。",
+          "空間缺少明確固定家具，使用行為較彈性。"
+        ],
+        "inferred_reading": [
+          "使用者行為可能以短時間停留、穿越、觀看展覽、參與品牌活動或休憩為主。(guess, confidence: 7/10)",
+          "使用族群可能具有高度混雜性，包括當地通勤者、購物者、觀光客與活動觀眾。(guess, confidence: 8/10)"
+        ]
+      },
+      "temporal_users": {
+        "visible_evidence": [
+          "圖中同時呈現日間與夜間狀態。",
+          "歷史比較圖顯示基地在 1966、2018、2025 三個時期有不同使用狀態。",
+          "2018 年版本呈現開放公園狀態，2025 年版本呈現建築化後的公共空間。"
+        ],
+        "inferred_reading": [
+          "日間使用者可能以通勤、觀光與街道活動為主；夜間則可能轉向品牌活動、展演或城市夜間停留。(guess, confidence: 6/10)",
+          "此基地的使用者具有時間性的更替：從原 Sony Building 的消費者，到臨時公園的城市使用者，再到新 Ginza Sony Park 的混合型訪客。(guess, confidence: 8/10)"
+        ]
+      }
+    },
+    "Event": {
+      "routine_activities": {
+        "visible_evidence": [
+          "街角位置與大量斑馬線顯示日常穿越與通行行為。",
+          "建築入口與平台空間可支援進出、停留、等待與上下樓。",
+          "內部樓梯與平台形成連續步行路徑。"
+        ],
+        "inferred_reading": [
+          "日常活動包括穿越街角、進入建築、短暫停留、上下樓、觀看城市與休息。(guess, confidence: 8/10)",
+          "建築將原本單純的街道路徑轉化為可以被延長、停頓與探索的立體路徑。(guess, confidence: 8/10)"
+        ]
+      },
+      "periodic_and_organized_events": {
+        "visible_evidence": [
+          "室內可見挑空、下沉空間、平台與燈光設備。",
+          "外部與內部空間均具有較大的開放面積。",
+          "圖片文字出現 Ginza Sony Park プロジェクト展，顯示此案曾作為展覽主題被呈現。"
+        ],
+        "inferred_reading": [
+          "空間可能支援展覽、品牌發布、音樂表演、公共活動或期間限定事件。(guess, confidence: 7/10)",
+          "下沉空間與階梯可能可作為觀眾停留、觀看或活動聚集的場所。(guess, confidence: 7/10)"
+        ]
+      },
+      "informal_occupations": {
+        "visible_evidence": [
+          "街角退縮與開放平台提供可停留空間。",
+          "寬樓梯、欄杆邊界與平台具有非正式停留的可能。",
+          "部分區域沒有被固定機能填滿。"
+        ],
+        "inferred_reading": [
+          "使用者可能在階梯、平台、欄杆旁進行等待、聊天、拍照、休息等非正式行為。(guess, confidence: 8/10)",
+          "建築藉由不完全定義的開放空間，允許城市使用者自行佔用與重新解讀空間。(guess, confidence: 7/10)"
+        ]
+      }
+    },
+    "Function": {
+      "associated_core_functions": {
+        "visible_evidence": [
+          "建築名稱顯示其為 Ginza Sony Park。",
+          "圖片顯示建築包含地面開放空間、室內挑空、樓梯、平台、下沉空間與屋頂／上層平台。",
+          "外部可見 Sony 標誌。"
+        ],
+        "inferred_reading": [
+          "核心機能可能結合公共空間、品牌展示、活動展演、商業體驗與城市休憩。(guess, confidence: 7/10)",
+          "此案的『公園』並非傳統綠地型公園，而是把公共活動、品牌空間與都市基礎設施混合在一起的立體公共場域。(guess, confidence: 8/10)"
+        ]
+      },
+      "programmatic_ratio": {
+        "visible_evidence": [
+          "圖中可見大量開放空間、樓梯與平台，商業櫃位或明確店鋪空間在照片中不明顯。",
+          "2025 年建築外觀為低層量體，但內部剖面空間複雜。",
+          "2018 年階段幾乎以開放公園與地下空間為主。"
+        ],
+        "inferred_reading": [
+          "公共流動與活動空間比例可能高於一般商業建築。(guess, confidence: 8/10)",
+          "商業或展示機能可能被嵌入公共路徑周邊，而非以封閉店鋪為主要空間形式。(guess, confidence: 6/10)"
+        ]
+      },
+      "supportive_infrastructure": {
+        "visible_evidence": [
+          "內部可見欄杆、樓梯、平台、燈光設備、天花設備與結構柱。",
+          "建築外部有網格狀外皮或構架系統。",
+          "下沉空間顯示建築具有地下層或多層剖面組織。"
+        ],
+        "inferred_reading": [
+          "支援性機能可能包括垂直交通、展演照明、設備管線、地下服務空間與活動後勤。(guess, confidence: 6/10)",
+          "外部網格構架可能同時具有立面遮蔽、視覺識別、邊界柔化與都市尺度整合的作用。(guess, confidence: 7/10)"
+        ]
+      }
+    },
+    "Summary": {
+      "visible_summary": "Ginza Sony Park 以銀座高密度街角基地為核心，從 1966 年的 Sony Building、2018 年的臨時城市公園，到 2025 年的新建築，呈現由封閉商業量體轉向立體公共場域的基地演變。影像顯示其透過低層量體、半透明外皮、下沉空間、寬樓梯與多層平台，將街角人流導入建築剖面之中。",
+      "interpretive_summary": "此案可被理解為一種『垂直化的城市公園』：它不是以大面積綠地形成公園，而是透過開放邊界、可穿越路徑、可停留平台與活動空間，把商業品牌、都市交通、人群事件與公共性疊合在同一個街角基地中。(guess, confidence: 8/10)"
+    }
+  },
+  {
+    "id": "CASE13_熊本地震震災博物館KIOKU",
+    "Site": {
+      "context_and_history": [
+        "基地位於山地、森林、草地與農田交界的自然環境中",
+        "建築配置與周邊山景、外輪山、阿蘇火口等視覺景觀有明確關聯",
+        "平面圖與分析圖顯示建築屋頂曲線是依據眺望方向與地形風景關係決定",
+        "建築可能與阿蘇地區的自然展示、火山地景或地域觀光脈絡有關 (guess, confidence: 8/10，原因：圖面標示出阿蘇火口、外輪山、展示室與周邊風景關係)"
+      ],
+      "location_and_boundaries": [
+        "基地邊界呈現開放式配置，建築周圍多為草地、山坡與自然地景",
+        "建築以低矮、水平延展的方式嵌入地景，邊界較不以圍牆界定",
+        "停車場位於建築一側，形成較明確的人工邊界",
+        "建築入口與展覽空間沿著一條彎曲軸線串聯",
+        "屋頂與地形形成連續的視覺關係，使建築邊界弱化為地景的一部分 (guess, confidence: 7/10，原因：航拍圖中屋頂曲線與草坡、道路曲線相互延續)"
+      ],
+      "accessibility_and_infrastructure": [
+        "基地可由車行道路與停車場進入",
+        "平面圖顯示停車場、車輛入口、步行路徑與建築入口之間有明確連接",
+        "建築周邊設有彎曲步道，連接展示空間、入口與戶外地景",
+        "此建築的可及性以觀光訪客、停車轉步行的使用模式為主 (guess, confidence: 8/10，原因：圖面中停車場規模明顯，且建築包含展示室與入口動線)"
+      ]
+    },
+    "Scale": {
+      "physical_area_and_dimension": [
+        "建築為一層樓配置，平面呈長向、低矮、彎曲延展的量體",
+        "整體建築尺度相對於山谷與草地環境偏低矮，避免形成大型垂直地標",
+        "室內展覽空間具有寬闊水平向度，並以大面玻璃面向山景",
+        "建築面積屬於中型公共展示設施或遊客中心等級 (guess, confidence: 7/10，原因：平面圖中包含多個展示室、入口大廳、停車場與公共服務空間，但未提供實際面積)"
+      ],
+      "perceived_scale_and_enclosure": [
+        "室內空間以大面開窗降低圍合感，讓山景成為空間的一部分",
+        "木構樑柱與重複水平屋架形成強烈的方向性與尺度節奏",
+        "白色弧形牆面在室內形成柔和包覆感，引導觀看與行走方向",
+        "屋簷下的半戶外空間提供介於室內與戶外之間的過渡尺度",
+        "室內空間感受偏開放、水平、低壓迫，但仍透過屋頂與牆面維持展示空間的集中性"
+      ],
+      "capacity_classification": [
+        "空間可容納一般展覽參觀、人群停留與小型導覽活動",
+        "停車場與展覽室配置顯示此建築具有接待團體訪客的能力",
+        "容量等級可能屬於地方型或區域型遊客展示設施 (guess, confidence: 7/10，原因：停車場規模、展示空間與公共入口配置皆指向觀光接待功能)"
+      ]
+    },
+    "Users": {
+      "primary_users": [
+        "參觀展覽的遊客",
+        "到訪自然景觀或地質景點的觀光客",
+        "使用停車場並進入建築的自駕訪客",
+        "展覽管理與服務人員 (guess, confidence: 8/10，原因：平面圖與照片可見展示室、入口、服務型建築配置)"
+      ],
+      "demographics_and_behavior": [
+        "使用者行為以觀看展示、眺望風景、沿動線行走、短暫停留為主",
+        "訪客可能包含家庭、學生團體、一般旅遊者與自然教育參訪者 (guess, confidence: 6/10，原因：建築類型接近展示館或遊客中心，但影像未直接顯示具體族群)",
+        "室內大型窗面與展示牆面同時支援向外觀看與向內閱讀展覽內容"
+      ],
+      "temporal_users": [
+        "使用者流動具有明顯的日間參觀特性 (guess, confidence: 6/10，原因：空間依賴自然光與景觀視野，但未提供營運時間)",
+        "停車場與入口配置暗示訪客多為短時間停留型使用",
+        "傍晚或夜間建築內部燈光會使建築在地景中形成低矮發光帶狀量體"
+      ]
+    },
+    "Event": {
+      "routine_activities": [
+        "進入建築",
+        "沿著彎曲動線移動",
+        "觀看展覽牆面與展示模型",
+        "從室內或半戶外空間眺望山景",
+        "在入口、廊下或展示空間短暫停留"
+      ],
+      "periodic_and_organized_events": [
+        "導覽解說活動 (guess, confidence: 7/10，原因：展示室、地景資訊與觀光型空間通常支援導覽，但影像未直接顯示活動)",
+        "自然教育或地質景觀介紹活動 (guess, confidence: 7/10，原因：圖面與照片反覆強調阿蘇火口、外輪山與展示空間)",
+        "小型展覽更新或主題展示活動 (guess, confidence: 6/10，原因：室內可見展覽牆面與展示台，但未提供活動資訊)"
+      ],
+      "informal_occupations": [
+        "在大面窗前停留觀景",
+        "在屋簷下避雨、等待或休息",
+        "沿草地與步道散步",
+        "在展覽空間內自由觀看與拍照 (guess, confidence: 6/10，原因：空間具有觀景與展覽特徵，但影像未直接顯示使用者行為)"
+      ]
+    },
+    "Function": {
+      "associated_core_functions": [
+        "展示空間",
+        "觀景空間",
+        "入口與接待空間",
+        "半戶外廊道",
+        "停車場",
+        "戶外步行動線",
+        "自然地景導覽或資訊展示功能 (guess, confidence: 8/10，原因：平面標示展示室與景觀分析圖，室內照片可見展示牆與模型)"
+      ],
+      "programmatic_ratio": [
+        "展覽與觀景機能為主要比例",
+        "交通與停車機能佔基地中相當明顯的比例",
+        "半戶外過渡空間與戶外步道作為輔助機能",
+        "辦公、管理或後勤空間比例可能較小 (guess, confidence: 5/10，原因：平面圖細節不足，無法清楚辨識所有服務空間)"
+      ],
+      "supportive_infrastructure": [
+        "停車場",
+        "車行入口",
+        "步行路徑",
+        "入口大廳",
+        "展覽服務空間",
+        "大面玻璃帷幕與木構屋架系統",
+        "景觀導向的屋頂與外部草坡系統",
+        "廁所或設備空間可能包含在建築內 (guess, confidence: 5/10，原因：公共展示設施通常需要此類機能，但影像中無法明確辨識)"
+      ]
+    }
+  },
+  {
+    "id": "CASE14_宮下公園MIYASHITA PARK",
+    "Site": {
+      "Context & History": "本基地緊鄰日本東京極具代表性的都市核心區。從基地平面圖可見，其南端直接指向「澀谷車站（Shibuya Sta.）」、忠犬八公廣場（\"Hachi-ko\" Plaza）與東廣場（East Plaza），北端則朝向「原宿（to Harajuku）」方向延伸。基地東側標註有已暗渠化的澀谷河（Culverted Shibuya River），呈現高度發展的都市歷史脈絡。",
+      "Location & Boundaries": "基地呈現一條極其狹長的帶狀特徵，南北橫跨多個街區，被劃分為「North」與「South」兩大主要區域。其西側邊界完全緊鄰極為繁忙的「JR鐵道線（JR-Line）」，東側則沿著「明治通（Meiji St.）」與「宮下町（Mitake-St.）」等都市主要幹道展開。",
+      "Accessibility & Infrastructure": "具有極高的立體化都市可及性。除了地面層的多個出入口外，基地東側透過兩座橫跨明治通的「行人天橋（Pedestrian Bridge）」直接與對面既有街區的二層、三層立體動線相連，並在北端設有與高層飯店共構的立體交通基礎設施。"
+    },
+    "Scale": {
+      "Physical Area & Dimension": "根據立面斷面與多層分解圖（Stacked Floor Diagram）顯示，這是一座包含地下層（Basement floor）、地面層（1st floor）到四層（4th floor/RF）的超長帶狀立體複合建築。其長度跨越數個都市街區，寬度則受限於鐵道與既有幹道之間，屬於典型「極致狹長、多層疊合」的巨型都市基礎設施級尺度。",
+      "Perceived Scale & Enclosure": "在地面與中間樓層（2F、3F的Outer Mall），空間感知呈現強烈的「線形廊道感」，一側為密集的商業店面，另一側則面向寬闊的都市街道（明治通）與路樹景觀。到了頂層（RF/4th floor），空間豁然開朗，由巨大的半圓形鋼骨拱架（Canopy Steel Frame）與不鏽鋼網（Stainless Mesh）包裹著帶狀的綠意與草坪，營造出一個既具備水平延展性、又被半透明網狀結構溫柔圍合的立體空中公園。",
+      "Capacity Classification": "頂層的空中綠帶與階梯式廣場、中庭空間具備極大的公眾容量。長達數百公尺的平坦綠地（Park）與帶狀鋪面，可同時容納數千人在不同區段進行休閒、漫步與聚集，屬於高運量、高密度的都市綠色核心基礎設施。"
+    },
+    "Users": {
+      "Primary Users": "核心使用者高度複合。包含澀谷與原宿一帶的年輕消費族群、國際與本土觀光客、高層飯店（Hotel/sequence）的住宿旅客、都市通勤族、以及前來休閒放鬆的都市居民與滑板同好（guess，信任度: 8）。",
+      "Demographics & Behavior": "使用者圖譜呈現全天候、多樣化的特徵。在頂層草坪區可見民眾席地而坐或躺臥くつろぐ、在步道上漫步散心；在各層的戶外商場外廊（Outer Mall）可見年輕人坐於景觀長椅上聊天、駐足觀景；大量的人潮則透過極富動感的立體交叉戶外樓梯進行垂直移動與逛街購物。",
+      "Temporal Users": "具有顯著的時間性流動。日間以逛街購物的遊客、商務人士與外籍旅客為主；傍晚與夜間則轉為下班後的通勤族、前往戶外餐廳（Restaurants）與酒吧消費的聚會人群（guess，信任度: 9），空間流動極具彈性。"
+    },
+    "Event": {
+      "Routine Activities": "日常行為包含日常漫步、在草坪上曬太陽與休憩、在半戶外露台座椅區餐飲與交談、利用立體長廊進行都市景觀的眺望，以及透過多層級的樓梯進行垂直動線的步行健身。",
+      "Periodic & Organized Events": "根據頂層開闊的帶狀草坪與多功能廣場配置，此處極適合舉辦品牌戶外快閃店（如可見Louis Vuitton、Tower Records等周邊商業呼應）、小型街頭音樂會、都市運動工作坊或夜間露天市集（guess，信任度: 8）。",
+      "Informal Occupations": "民眾自發性地將巨大鋼構拱架下方的綠化邊緣當作靠背，或者將商場外廊的木質景觀花台當作即興坐凳；青年群體在樓梯交會的平台或天橋端點駐足、自拍或進行街頭次文化交流，充分占有此一立體化微型空間。"
+    },
+    "Function": {
+      "Associated Core Functions": "核心機能為高度立體複合的「立體都市公園（Park）」、「多層商業大樓（Shops & Restaurants）」、「都市公共停車場（Parking）」與「高層連鎖飯店（Hotel）」。",
+      "Programmatic Ratio": "功能在垂直與水平方向高度整合。地下層與部分低樓層主要作為停車場（Parking）；一至三層主要佈滿了商店與餐廳（Shops & Restaurants），並結合了戶外開放式商場廊道（Outer Mall）；第四層/屋頂層則完全回饋給公眾，作為開放的都市公園（Park）；北端則垂直向上拔高為飯店塔樓，公共綠地與商業、基礎設施互利共生。",
+      "Supportive Infrastructure": "完善的支撐性基礎設施包含巨大的立體戶外疏散/交通樓梯系統、垂直電梯、整合於建築體內的公共停車場、頂層拱架上攀爬的植栽（Climbing plants）與不鏽鋼花器（Stainless Pot）組成的立體生態綠化系統，以及沿明治通設置的精緻半戶外遮陽與管線整合天花系統。"
+    }
+  },
+  {
+    "id": "CASE15_久屋大通公園",
+    "Site": {
+      "Context & History": "本設計為日本名古屋市核心區的著名帶狀都市綠軸「久屋大通公園」（Hisaya Odori Park）之改造更新案。該公園座落於歷史悠久的名古屋都市格子（Nagoya Grid）紋理中，背景與名古屋城的軸線緊密相連，並以園區內地標性的「名古屋電視塔」（MIRAI TOWER）作為整座城市最重要的景觀與歷史視覺焦點。",
+      "Location & Boundaries": "基地呈現一條極其細長的帶狀結構，兩側被繁華的都市商業街區（Downtown）與高密度辦公、百貨大樓完全圍繞。平面圖顯示，公園被主要城市橫向道路切分為多個區塊（包含 Zelkova Square、Lawn Square、Tower Square、Water Square、Media Square 等），在南端與北端分別與地鐵站（Station）相連。",
+      "Accessibility & Infrastructure": "具備高密度的立體化可及性。地面層跨越主要幹道處設有跨街的行人天橋景觀廊道（Central Bridge / 景觀天橋），與既有都市步道（sidewalk）無縫接軌；而斷面圖更揭示，公園兩側建築的下方整合了龐大的都市地下鐵（subway）、地下街商城（mall）以及多層式的地下公共停車場（parking），屬於高整合度的立體基礎設施系統。"
+    },
+    "Scale": {
+      "Physical Area & Dimension": "根據平面圖隨附的 50m 縮尺棒，基地總長度跨越數個主要街區，長度可達數百公尺，而寬度約在 80 至 100 公尺之間。在如此狹長的都市走廊內，透過分段的廣場設計，兼具了巨型都市基礎設施的長度與親切的局部廣場尺度。",
+      "Perceived Scale & Enclosure": "空間感知具有強烈的軸線透視感（TVtower Vista）。兩側整齊排列的茂密路樹（Zelkova/櫸木）與兩側高聳的都市建築天際線，共同圍塑出一條極具方向性的垂直邊界；而沿著軸線望去，高聳的 MIRAI TOWER 電視塔在水平開敞的中央大草坪、水景（Water Square）的襯托下，形成了統攝全區、具有強大紀念性的空間感知。",
+      "Capacity Classification": "具備城市級中央集會廣場的等級。不論是長度超過百公尺的綠色大草坪（Lawn Square），還是電視塔下方的水景鋪面與多功能媒體廣場（Media Square），均能輕鬆容納上千名市民同時在此進行休閒、觀光或舉辦大型都市戶外慶典。"
+    },
+    "Users": {
+      "Primary Users": "核心使用者高度複合。包括居住在附近的都市居民、兩側商業與辦公大樓的通勤上班族、前往周邊商圈（榮商圈等）消費的購物族、國內外觀光客，以及前往公園附設幼兒園（Kindergarten）的孩童與家長。",
+      "Demographics & Behavior": "使用者表現出豐富的全世代行為圖譜。影像中可見年輕人或商務人士獨自坐在具幾何線條的白色景觀長椅上休憩、家長牽著幼童在平坦開敞的草坪上散步、遊客在步道（Walk）上漫步拍照，以及民眾在兩側錯落點綴的微型斜屋頂咖啡廳（Cafe + Restaurant）半戶外露台區（terrace）點餐交談。",
+      "Temporal Users": "時間性流動特徵顯著。白天以商務人士、帶著幼童的家長與觀光客為主；而因其與周邊夜生活 Downtown 商圈緊密交織，且基地內的水景、電視塔具備出色的夜間照明硬體，預計傍晚至夜間會轉為年輕消費族群與聚會人潮湧入的高峰期（guess，信任度: 9）。"
+    },
+    "Event": {
+      "Routine Activities": "日常行為極其自然且多樣。包括在草坪與散步道進行日常散步（walking）、慢跑、坐臥憩息（Rest）、在林蔭下閱讀、在街邊座椅區與朋友歡談，以及穿梭於各個帶狀街區進行都市通勤通學。",
+      "Periodic & Organized Events": "根據 Hisaya Pattern 的多功能空間矩陣與 Media Square 的配置，此處定期舉辦都市藝術節（Art）、週末文創市集、品牌快閃活動、露天美食節，或是配合電視塔與水景進行季節性的燈光音樂展演。",
+      "Informal Occupations": "市民自發性地占有此處的微地形。例如將草坪邊緣微微抬高的白色條狀混凝土鋪面直接作為長椅或躺椅，或是青少年在開闊的鋪面廣場端點進行即興街頭表演；錯落的微型建築（Shop/Restaurant）其邊緣段差與綠化帶邊緣，皆成為公眾自發性佇立、停留的非正式空間節點。"
+    },
+    "Function": {
+      "Associated Core Functions": "核心機能為「都市綠色生態基礎設施」與「立體微型商業消費」的緊密縫合。公園不再只是單純的景觀綠地，而是透過低密度、現代斜屋頂的微型零售量體，將休閒、餐飲、文化、娛樂與交通轉乘完美結合。",
+      "Programmatic Ratio": "空間機能占比以絕對的公共開放空間為主（草坪、水景、林蔭漫步道、藝術鋪面廣場）約佔全區地表總面積的 75-80%；而錯落於帶狀兩側的微型商業設施、餐廳咖啡廳（Shops/Restaurants）及公共服務設施則佔約 20-25%，形成「綠意包夾商業」的理想配比。",
+      "Supportive Infrastructure": "完善的基礎支撐設施包含：立體連通的跨街天橋與地鐵出入口、整合於景觀微地形中的無障礙坡道、斷面圖中所揭示的地下多層側向排水與結構護牆、夜間城市級景觀照明系統，以及分散配置於林蔭道各處、與地表景觀融為一體的帶狀噴泉、街道家具與公共化妝室。"
+    }
+  },
+  {
+    "id": "CASE16_Grand Green Osaka",
+    "Site": {
+      "環境與歷史脈絡(Context & History)": {
+        "observed_evidence": [
+          "基地位於高度都市化的鐵道站區旁，影像中可見 JR Osaka Station、Grand Front Osaka、Shin Umeda City 等都市節點標示",
+          "原本較偏基礎設施或開發用地的區域被轉化為大型都市綠地與公共開放空間",
+          "綠地被置入高密度商業辦公量體之間，形成站區再開發中的都市空隙與公共核心"
+        ],
+        "analysis": "此案例呈現車站周邊大型開發中，以公園作為都市更新核心的策略。基地不是孤立公園，而是介於車站、商業大樓、辦公塔樓與周邊街區之間的公共地景節點。"
+      },
+      "地理位置與邊界關係(Location & Boundaries)": {
+        "observed_evidence": [
+          "南側鄰近 JR Osaka Station 與鐵道系統",
+          "東南側可見 Grand Front Osaka 及大型商業建築群",
+          "北側與西側接續 Shin Umeda City 及其他高層建築街廓",
+          "基地呈現狹長帶狀，並被道路、街廓與鐵道邊界切割"
+        ],
+        "analysis": "基地邊界不是封閉式公園邊界，而是以多方向開口與步行路徑回應周邊城市。公園在平面上被分為南、北兩個主要區域，中間透過道路、橋梁與穿越動線連接。"
+      },
+      "都市可及性與交通連接(Accessibility & Infrastructure)": {
+        "observed_evidence": [
+          "平面圖中可見 JR Osaka Station、Umeda Underground Entrance 與多條步行路徑",
+          "空橋系統跨越道路與公園，連接不同地塊與建築",
+          "地面層有大面積廣場、步道、草地與林蔭路徑",
+          "低碳系統圖中標示地熱井、含水層蓄熱、廢水熱泵、地熱熱泵等基礎設施"
+        ],
+        "analysis": "此基地同時整合人流交通與能源基礎設施。步行系統將車站、商業建築與公園連成連續都市網絡；能源系統則將地下水、地熱與污水管線轉化為環境調節資源。"
+      }
+    },
+    "Scale": {
+      "實體面積與量體(Physical Area & Dimension)": {
+        "observed_evidence": [
+          "整體公園尺度跨越多個街廓，從車站北側延伸至 Shin Umeda City 方向",
+          "平面圖中比例尺顯示基地長度達數百公尺等級",
+          "周邊量體以高層辦公、商業與飯店建築為主",
+          "公園內包含大型草坪、圓形水景、丘陵地形、廣場、空橋與低層附屬建築"
+        ],
+        "analysis": "整體尺度屬於大型站前都市公園，而非社區型小公園。它以水平延展的綠地量體，對比周邊垂直高層建築，形成強烈的尺度張力。"
+      },
+      "空間感知與圍合感(Perceived Scale & Enclosure)": {
+        "observed_evidence": [
+          "大草坪與開放廣場提供寬闊視野",
+          "樹列、丘陵、植栽帶與步道形成局部圍合",
+          "空橋與大屋蓋在部分區域創造低矮遮蔽與半戶外空間",
+          "高層建築圍繞公園，使公園具有都市谷地般的空間感"
+        ],
+        "analysis": "空間感知上呈現『大開放面』與『局部包覆』並置：草坪、水盤與廣場提供大型公共活動尺度；林蔭路徑、下凹或微起伏地形、屋蓋下空間則降低人體尺度，創造停留感。"
+      },
+      "容量等級(Capacity Classification)": {
+        "observed_evidence": [
+          "影像中可見大量人群在草坪、水景、廣場與屋蓋下活動",
+          "大草坪可容納分散式停留與大型集會",
+          "屋蓋下空間可容納排隊、活動、臨時市集或避雨停留",
+          "步道與空橋可承載通勤、觀光與日常穿越人流"
+        ],
+        "analysis": "容量等級屬於城市級公共空間，可同時承載日常通勤、休憩、親子活動、觀光停留與大型活動人潮。大型草坪與廣場是主要容量承載區，橋梁與步道則負責流動分配。"
+      }
+    },
+    "Users": {
+      "核心目標族群(Primary Users)": {
+        "observed_evidence": [
+          "影像中可見步行者、遊客、上班族、親子與休憩者",
+          "車站、商業設施、辦公大樓與飯店環繞基地",
+          "草坪、水景、廣場與空橋支援多種使用者"
+        ],
+        "analysis": [
+          "通勤者：利用公園作為車站與周邊建築之間的穿越路徑",
+          "上班族：在午休或下班時間使用草地、座椅、咖啡與半戶外空間",
+          "觀光客：因車站與大型商業設施而進入基地，並停留拍照或休息",
+          "親子與家庭：使用草坪、水景與安全開放空間",
+          "活動參與者：在廣場、草坪或屋蓋下參與週末活動與展演 (guess, 信心程度 7/10，因影像中可見大量人群與可供活動的大型開放場地)"
+        ]
+      },
+      "背景與行為特徵(Demographics & Behavior)": {
+        "observed_evidence": [
+          "人群分布在草地、水景、步道、橋上與建築邊界",
+          "部分人群快速移動，部分人群停留、坐臥或觀看水景",
+          "空間同時支援穿越、停留、活動與觀景"
+        ],
+        "analysis": "使用者行為具有高度混合性：有目的性的通勤穿越與非目的性的休閒停留同時存在。空間透過不同鋪面、植栽密度、地形高低與開放程度，讓使用者自行選擇速度與停留方式。"
+      },
+      "時間性流動(Temporal Users)": {
+        "observed_evidence": [
+          "車站周邊暗示尖峰通勤人流",
+          "草坪與水景暗示白天休憩與家庭活動",
+          "大型廣場與屋蓋暗示活動時段的人潮聚集"
+        ],
+        "analysis": [
+          "平日早晚：以通勤、上班族穿越與短暫停留為主 (guess, 信心程度 8/10，因基地緊鄰車站與辦公商業區)",
+          "平日中午：以辦公族群休息、用餐、散步為主 (guess, 信心程度 7/10，因周邊辦公量體密集)",
+          "假日白天：以親子、遊客、休憩與草坪活動為主 (guess, 信心程度 8/10，因影像中草坪與水景已有大量休閒使用者)",
+          "活動時段：屋蓋下、廣場與草坪可轉化為高密度聚集空間 (guess, 信心程度 7/10，因空間配置具有大型活動場地特徵)"
+        ]
+      }
+    },
+    "Event": {
+      "日常性活動(Routine Activities)": {
+        "observed_evidence": [
+          "步道系統支援穿越與散步",
+          "草坪支援坐臥、休息、野餐與兒童活動",
+          "水景區吸引人群聚集與玩水",
+          "橋梁提供跨越、觀景與連接",
+          "室內公共空間可見休憩座位與咖啡空間"
+        ],
+        "analysis": "日常事件以穿越、停留、散步、休憩、觀景、親水與社交為主。設計不是單一目的地，而是讓人在移動途中自然轉化為停留。"
+      },
+      "週期性與節慶事件(Periodic & Organized Events)": {
+        "observed_evidence": [
+          "大草坪具有容納集會與臨時活動的能力",
+          "Large Canopy 形成遮蔽性活動節點",
+          "廣場鋪面平整，適合市集、展演或臨時裝置",
+          "鳥瞰圖與透視圖中可見大量人群聚集於屋蓋前與草坪周邊"
+        ],
+        "analysis": [
+          "戶外展演、市集、品牌活動、節慶集會或車站周邊大型公共活動皆可能發生 (guess, 信心程度 7/10，因圖中沒有直接標示活動名稱，但場地尺度與屋蓋配置明顯支援此類事件)",
+          "水景與草坪可在季節變化中形成不同活動場景，例如夏季親水、春季賞花或週末休憩 (guess, 信心程度 6/10，因影像中有水景、草坪與開花樹木的示意)"
+        ]
+      }
+    },
+    "自發性非正式行為(Informal Occupations)": {
+      "observed_evidence": [
+        "草坡邊緣與低矮台階可作為臨時座位",
+        "樹下陰影形成自然停留點",
+        "橋上與水景邊緣形成觀景停留",
+        "屋蓋下的陰影區可供等待與聚集"
+      ],
+      "analysis": "非正式行為是此案的重要空間品質。使用者可在草地上自由坐臥、在水景周邊停留、在橋上觀看城市景觀，或在建築邊界與樹蔭下形成暫時性的社交節點。"
+    },
+    "Function": {
+      "附屬核心機能(Associated Core Functions)": {
+        "observed_evidence": [
+          "平面圖標示 Great Lawn、Garden of Colors、South Hill、Large Canopy、South Plaza、Inspiration Path、Ginkgo Mall、Step Plaza、North Hill、North Plaza、Umekita Grove、North Building、Grand Green Osaka The North Residence 等機能",
+          "基地連接 JR Osaka Station、Umeda Plaza、Grand Front Osaka 與周邊高層建築",
+          "室內影像顯示辦公或商業建築中的公共休憩空間",
+          "低碳系統圖顯示能源基礎設施整合"
+        ],
+        "analysis": [
+          "核心機能包括都市公園、站前廣場、草坪活動場、水景、步行連接、商業／辦公附屬空間、住宅與基礎設施系統",
+          "公園不是單純綠地，而是結合交通轉接、商業導流、都市休憩、活動承載與環境能源系統的複合公共平台"
+        ]
+      },
+      "複合機能占比(Programmatic Ratio)": {
+        "observed_evidence": [
+          "基地中央與北側大部分面積為草坪、植栽、水景與步道",
+          "建築量體主要分布在公園邊緣與特定節點",
+          "南側與車站、商業開發區密切連接",
+          "屋蓋、廣場與橋梁作為公共活動與交通連接的中介空間"
+        ],
+        "analysis": [
+          "綠地與開放空間占比高，為整體視覺與使用核心",
+          "商業、辦公、住宅與建築機能沿公園邊緣配置，形成都市界面",
+          "交通與步行基礎設施穿插其中，將公園轉化為城市流動節點",
+          "推測比例：開放綠地與廣場約為主要比例，建築與附屬設施為次要但高強度使用比例 (guess, 信心程度 6/10，因影像與平面圖可見大面積綠地，但未提供精確面積數據)"
+        ]
+      },
+      "基礎設施與服務機能(Supportive Infrastructure)": {
+        "observed_evidence": [
+          "低碳系統圖標示 warm side、cold side、wastewater heat pump、geothermal heat pump、main sewer pipe",
+          "場地中配置空橋、地下入口、廣場、步道、樹列、屋蓋與服務性建築",
+          "道路與鐵道邊界提供大型交通基礎設施背景"
+        ],
+        "analysis": [
+          "能源基礎設施：利用地熱、含水層蓄熱與污水熱能進行環境調節",
+          "交通基礎設施：透過地面步道、地下入口與空橋連接車站、街區與商業建築",
+          "活動服務基礎設施：屋蓋、廣場、座椅、樹蔭、水景與低層附屬建築支援長時間停留",
+          "環境基礎設施：草坪、植栽、丘陵與水體共同形成都市降溫、滯留與景觀調節功能 (guess, 信心程度 7/10，因影像可見大量綠地與水體，但未直接提供環境性能數據)"
+        ]
+      }
+    }
+  },
+  {
+    "id": "CASE17_CoFuFun",
+    "Site": {
+      "環境與歷史脈絡(Context & History)": {
+        "observations": [
+          {
+            "text": "基地緊鄰鐵道、月台與車站建築。",
+            "status": "observed",
+            "guess_confidence": null
+          },
+          {
+            "text": "此案可能將車站前的交通節點轉化為可停留的公共廣場。(guess)",
+            "status": "guess",
+            "guess_confidence": 8
+          },
+          {
+            "text": "白色圓形地景、草地與低矮建築共同形成基地主要視覺特徵。",
+            "status": "observed",
+            "guess_confidence": null
+          }
+        ]
+      },
+      "地理位置與邊界關係(Location & Boundaries)": {
+        "observations": [
+          {
+            "text": "北側可見鐵道與車站月台，形成明確線性邊界。",
+            "status": "observed",
+            "guess_confidence": null
+          },
+          {
+            "text": "南側與道路、停車場及周邊街區相接。",
+            "status": "observed",
+            "guess_confidence": null
+          },
+          {
+            "text": "基地內部透過開放鋪面、草地與步道，使空間邊界感相對柔化。(guess)",
+            "status": "guess",
+            "guess_confidence": 7
+          }
+        ]
+      },
+      "都市可及性與交通連接(Accessibility & Infrastructure)": {
+        "observations": [
+          {
+            "text": "基地周邊可見道路、停車區與車輛動線。",
+            "status": "observed",
+            "guess_confidence": null
+          },
+          {
+            "text": "基地與車站之間具有步行連接關係。(guess)",
+            "status": "guess",
+            "guess_confidence": 8
+          },
+          {
+            "text": "此空間可能作為人流集散、等待與轉乘前後停留的場所。(guess)",
+            "status": "guess",
+            "guess_confidence": 7
+          }
+        ]
+      }
+    },
+    "Scale": {
+      "實體面積與量體(Physical Area & Dimension)": {
+        "observations": [
+          {
+            "text": "基地包含多個大型圓形平台、草地、步道與低矮建築量體。",
+            "status": "observed",
+            "guess_confidence": null
+          },
+          {
+            "text": "主要建築高度低，呈現水平延展的地景化形式。",
+            "status": "observed",
+            "guess_confidence": null
+          },
+          {
+            "text": "整體尺度接近大型車站前廣場或城市公共開放空間。(guess)",
+            "status": "guess",
+            "guess_confidence": 8
+          }
+        ]
+      },
+      "空間感知與圍合感(Perceived Scale & Enclosure)": {
+        "observations": [
+          {
+            "text": "戶外空間視野開放，能看見車站、周邊街區與廣場內部多個區域。",
+            "status": "observed",
+            "guess_confidence": null
+          },
+          {
+            "text": "圓形平台與同心圓階梯創造局部圍合感。(guess)",
+            "status": "guess",
+            "guess_confidence": 7
+          },
+          {
+            "text": "白色曲面與圓形幾何使空間氛圍偏向柔和、抽象與遊戲性。(guess)",
+            "status": "guess",
+            "guess_confidence": 6
+          }
+        ]
+      },
+      "容量等級(Capacity Classification)": {
+        "observations": [
+          {
+            "text": "廣場具有可容納多人同時活動的開放鋪面與草地。",
+            "status": "observed",
+            "guess_confidence": null
+          },
+          {
+            "text": "階梯平台可作為非正式座席使用。(guess)",
+            "status": "guess",
+            "guess_confidence": 8
+          },
+          {
+            "text": "整體容量可能屬於中大型公共空間等級。(guess)",
+            "status": "guess",
+            "guess_confidence": 7
+          }
+        ]
+      }
+    },
+    "Users": {
+      "核心目標族群(Primary Users)": {
+        "observations": [
+          {
+            "text": "圖片中可見成人與兒童在廣場及草地活動。",
+            "status": "observed",
+            "guess_confidence": null
+          },
+          {
+            "text": "主要使用者可能包含車站旅客、通勤者、周邊居民與親子家庭。(guess)",
+            "status": "guess",
+            "guess_confidence": 8
+          },
+          {
+            "text": "室內空間使用者可能包含用餐、休息或閱讀的人。(guess)",
+            "status": "guess",
+            "guess_confidence": 7
+          }
+        ]
+      },
+      "背景與行為特徵(Demographics & Behavior)": {
+        "observations": [
+          {
+            "text": "使用者在戶外空間中有散步、停留、遊戲與休憩的可能。(guess)",
+            "status": "guess",
+            "guess_confidence": 8
+          },
+          {
+            "text": "兒童可能被草地與遊戲設施吸引。(guess)",
+            "status": "guess",
+            "guess_confidence": 8
+          },
+          {
+            "text": "旅客或行人可能因特殊圓形地景停留拍照。(guess)",
+            "status": "guess",
+            "guess_confidence": 6
+          }
+        ]
+      }
+    },
+    "時間性流動(Temporal Users)": {
+      "observations": [
+        {
+          "text": "早晚時段可能以通勤與轉乘人流為主。(guess)",
+          "status": "guess",
+          "guess_confidence": 7
+        },
+        {
+          "text": "白天與假日可能增加休憩、親子與觀光使用。(guess)",
+          "status": "guess",
+          "guess_confidence": 7
+        },
+        {
+          "text": "用餐時段室內座位區可能有較高使用量。(guess)",
+          "status": "guess",
+          "guess_confidence": 6
+        }
+      ]
+    },
+    "Event": {
+      "日常性活動(Routine Activities)": {
+        "observations": [
+          {
+            "text": "日常活動可能包含穿越、等待、休息、兒童遊戲與用餐。(guess)",
+            "status": "guess",
+            "guess_confidence": 8
+          },
+          {
+            "text": "室內空間可見桌椅、櫃台與開放座位區。",
+            "status": "observed",
+            "guess_confidence": null
+          },
+          {
+            "text": "戶外空間可見草地、步道、階梯與遊戲設施。",
+            "status": "observed",
+            "guess_confidence": null
+          }
+        ]
+      },
+      "週期性與節慶事件(Periodic & Organized Events)": {
+        "observations": [
+          {
+            "text": "開放廣場與圓形平台可能支援市集、表演或社區活動。(guess)",
+            "status": "guess",
+            "guess_confidence": 6
+          },
+          {
+            "text": "圓形階梯可能作為小型觀眾席或舞台邊界。(guess)",
+            "status": "guess",
+            "guess_confidence": 6
+          },
+          {
+            "text": "草地與開放鋪面可能支援臨時裝置或戶外展演。(guess)",
+            "status": "guess",
+            "guess_confidence": 5
+          }
+        ]
+      },
+      "自發性非正式行為(Informal Occupations)": {
+        "observations": [
+          {
+            "text": "同心圓階梯可能吸引人坐下、停留或觀看廣場活動。(guess)",
+            "status": "guess",
+            "guess_confidence": 8
+          },
+          {
+            "text": "草地區可能支援兒童奔跑、躺坐與非正式遊戲。(guess)",
+            "status": "guess",
+            "guess_confidence": 8
+          },
+          {
+            "text": "開放鋪面可能支援臨時聚集、散步或滑步車等彈性使用。(guess)",
+            "status": "guess",
+            "guess_confidence": 6
+          }
+        ]
+      }
+    },
+    "Function": {
+      "附屬核心機能(Associated Core Functions)": {
+        "observations": [
+          {
+            "text": "基地具有車站前公共廣場、休憩空間、草地、遊戲區與室內服務空間等功能。(guess)",
+            "status": "guess",
+            "guess_confidence": 8
+          },
+          {
+            "text": "室內照片可見餐飲櫃台、座位、桌椅與書架。",
+            "status": "observed",
+            "guess_confidence": null
+          },
+          {
+            "text": "戶外照片可見階梯平台、草地、步道與遊戲設施。",
+            "status": "observed",
+            "guess_confidence": null
+          }
+        ]
+      },
+      "複合機能占比(Programmatic Ratio)": {
+        "observations": [
+          {
+            "text": "戶外公共開放空間比例明顯高於室內空間。(guess)",
+            "status": "guess",
+            "guess_confidence": 8
+          },
+          {
+            "text": "室內餐飲或服務機能比例可能較低，作為廣場輔助功能。(guess)",
+            "status": "guess",
+            "guess_confidence": 7
+          },
+          {
+            "text": "交通、停車與道路空間位於基地周邊並與廣場相鄰。",
+            "status": "observed",
+            "guess_confidence": null
+          }
+        ]
+      },
+      "基礎設施與服務機能(Supportive Infrastructure)": {
+        "observations": [
+          {
+            "text": "基地內可見欄杆、階梯、坡道或緩坡、照明桿與鋪面步道。",
+            "status": "observed",
+            "guess_confidence": null
+          },
+          {
+            "text": "室內空間可能提供餐飲、休息、閱讀與自行車停放服務。(guess)",
+            "status": "guess",
+            "guess_confidence": 7
+          },
+          {
+            "text": "廣場可能作為車站人流的緩衝與分散空間。(guess)",
+            "status": "guess",
+            "guess_confidence": 7
+          }
+        ]
+      }
+    },
+    "Confidence_Scale": {
+      "0": "完全無法判斷",
+      "1-3": "低信心推測",
+      "4-6": "中等信心推測",
+      "7-8": "高信心推測",
+      "9-10": "接近可確認，但仍非圖片直接證據"
+    }
+  },
+  {
+    "id": "CASE18_Yashima Mountaintop Park",
+    "Site": {
+      "context_and_history": "位於日本香川縣高松市的屋島山頂公園（Yashima Mountaintop Park）。該地具有重要的地理與歷史意義，俯瞰瀨戶內海。建築形式採用流動的曲線，旨在與山頂起伏的自然地形和周邊植被融合，而非與自然對立。",
+      "location_and_boundaries": "建築物位於山崖邊緣，邊界界定模糊。透過連續的帶狀體量與玻璃立面，消解了室內外的隔閡，使建築成為連接森林景觀與城市遠景的媒介。",
+      "accessibility_and_infrastructure": "透過步道與周邊既有建築（如咖啡廳、博物館）連接。平面圖顯示其作為山頂環形動線的一部分，具備良好的可達性，並整合了基礎服務機能（如機房、廁所）。"
+    },
+    "Scale": {
+      "physical_area_and_dimension": "總體呈現長條狀流動量體。根據斷面圖，屋頂跨度適中，使用 100x200x6x12 的鋼樑支撐。比例尺為 1/500，顯示其在山頂佔地廣闊但體量纖細。",
+      "perceived_scale_and_enclosure": "透過全透明玻璃圍護與抬升的體量，創造出極高的空間通透感。建築在某些片段懸挑或抬升，下方形成灰空間（如入口花園），降低了建築的壓迫感。",
+      "capacity_classification": "屬於中大型公共設施，包含全景展覽廳、大廳、多功能花園等，能容納大量觀光客與團體活動。"
+    },
+    "Users": {
+      "primary_users": "觀光客、當地市民、藝術與建築愛好者。",
+      "demographics_and_behavior": "年齡層廣泛，包含家庭、長者及旅遊團（如照片所示）。主要行為為景觀眺望、漫步、參觀展覽及休憩。",
+      "temporal_users": "日間為主要使用時段。隨季節與瀨戶內國際藝術祭等活動產生波動。"
+    },
+    "Event": {
+      "routine_activities": "觀景、散步、在咖啡廳用餐、兒童在兒童花園遊玩、拍照。",
+      "periodic_and_organized_events": "全景展覽（Panorama Exhibition）、地方展覽、小型講座或文化活動（Hall 空間）。",
+      "informal_occupations": "遊客在坡道或台階處（Terrace）隨意坐臥、遮陽休憩，或在多功能花園進行非正式社交。"
+    },
+    "Function": {
+      "associated_core_functions": "景觀平台、展覽空間（全景與地方展）、多功能大廳。",
+      "programmatic_ratio": "開放性景觀與交通空間佔比較高（約 60%），室內封閉機能如辦公室、機房較低（約 15%），其餘為半開放服務設施。",
+      "supportive_infrastructure": "包含辦公室、員工室、廁所（含無障礙廁所）、機房空間（Machine Space），為高密度的旅遊活動提供後勤支撐。"
+    }
+  },
+  {
+    "id": "CASE19_北谷公園 Shibuya Kitaya Park",
+    "Site": {
+      "Context_History": "位於日本東京澀谷區神南二丁目的北谷公園 (Shibuya Kitaya Park)，為澀谷區首座透過 PFI 制度 (Park-PFI) 重新開發的公園，周邊為高密度商業與住宅混合區 (guess - Confidence: 9)",
+      "Location_Boundaries": "基地呈三角形，位於街道轉角，邊界以低矮的清水混凝土擋土牆與街道區隔，展現極佳的開放性 (Confidence: 10)",
+      "Accessibility_Infrastructure": "具備高度都市可及性，緊鄰兩條街道，並透過階梯與坡道系統處理地形高低差，與周邊都市紋理緊密相連 (Confidence: 10)"
+    },
+    "Scale": {
+      "Physical_Area_Dimension": "中小型都市口袋公園，包含一座約兩層樓高的木構鋼構複合建築 (Blue Bottle Coffee 入駐) (Confidence: 10)",
+      "Perceived_Scale_Enclosure": "透過階梯式平台 (Terraced seating) 緩解地形壓力，創造層次豐富的圍合感，建築量體輕盈，不對周邊街道造成壓迫 (Confidence: 9)",
+      "Capacity_Classification": "屬於鄰里等級的微型空間，可同時容納約 50-100 人的日常停留或小型市集活動 (guess - Confidence: 8)"
+    },
+    "Users": {
+      "Primary_Users": "附近的上班族、當地居民、遊客以及咖啡店消費者 (Confidence: 9)",
+      "Demographics_Behavior": "涵蓋青年、商務人士與家長，行為包括休憩、交談、閱讀、操作電腦及購買咖啡 (Confidence: 9)",
+      "Temporal_Users": "白天以觀光客與上班族休憩為主，週末則有市集活動吸引家庭族群 (guess - Confidence: 8)"
+    },
+    "Event": {
+      "Routine_Activities": "日常性的咖啡消費、午間休憩、階梯久坐、穿越性通行 (Confidence: 10)",
+      "Periodic_Organized_Events": "定期舉辦小型創意市集 (如 Jinnan Market)、品牌快閃活動與戶外展覽 (Confidence: 9)",
+      "Informal_Occupations": "路人自發性的階梯休憩、滑板活動或小型團體非正式聚集 (Confidence: 8)"
+    },
+    "Function": {
+      "Associated_Core_Functions": "核心機能為都市休憩、餐飲服務 (Blue Bottle Coffee) 及社區公共空間 (Confidence: 10)",
+      "Programmatic_Ratio": "開放空間約佔 70%，服務性建築量體約佔 30% (guess - Confidence: 8)",
+      "Supportive_Infrastructure": "包含多功能建築內的廁所、儲藏空間、戶外階梯排水系統及公共街道照明 (Confidence: 9)"
+    }
+  },
+  {
+    "id": "CASE20_明治公園",
+    "Site": {
+      "Context & History": "画像データに基づくと、本プロジェクトは「希望の広場（Square of hope）」、「インクルーシブ広場（Inclusive Square）」、「誇りの杜（Forest of pride）」などのエリアで構成される都市公園プロジェクトです。平面図内の記載によると、令和5年（2023年）10月31日より一部エリアの供用が開始されています。",
+      "Location & Boundaries": "敷地西側は「外苑西通り（Gaiennishi-dori Ave.）」に面しており、道路境界に沿って「みち広場（Street Plaza）」や「ステップガーデン（Step Garden）」が配置されています。北側上部には「ペデストリアンデッキ（Pedestrian Deck）」が通っており、周辺の都市高層ビル群や既存の街区、集合住宅に囲まれた明確な都市内部の境界線を持っています。",
+      "Accessibility & Infrastructure": "北側のペデストリアンデッキおよび西側の外苑西通り（みち広場）の双方から平面・立体的なアクセスが確保されています。敷地北側には「トイレ棟（Toilet）」や車いす対応のバリアフリーインフラ（公園管理所、案内所）が整備されており、都市インフラとの高い連続性を備えています。"
+    },
+    "Scale": {
+      "Physical Area & Dimension": "平面図の50mスケールバーに基づくと、敷地全体の東西幅は約120m〜150m、南北幅は約100m〜130m程度の規模を持つ中規模の都市型オープンパブリックスペースです。敷地内には、緩やかにカーブを描く立体歩廊（デッキ）や、複数階構成のテラスを持つ建築ボリュームが有機的に配置されています。",
+      "Perceived Scale & Enclosure": "周囲を大規模な高層ビルやレジデンスに囲まれているため、上方への強い垂直的な囲合感（エンクロージャ）を受ける立地です。しかし、敷地中央に「希望の広場」や「誇りの杜」といった開放的な緑地・空地を大胆に確保し、さらに建築の壁面を何段もの緩やかなテラス状にセットバックさせて緑化することで、都市の圧迫感を軽減し、ヒューマンスケールに寄り添った心地よい開放感を生み出しています。",
+      "Capacity Classification": "中央の広大な芝生広場（希望の広場）や、それを取り囲む舗装されたメイン動線は、日常的な散策だけでなく、百人規模の市民が同時に滞在・回遊できる高い収容力（キャパシティ）を持っています。"
+    },
+    "Users": {
+      "Primary Users": "近隣のオフィスに勤めるビジネスパーソン、周辺の集合住宅に居住するファミリー層（幼児、小学生とその保護者）、および都市を訪れる買い物客や散策者がコアなターゲット層です。",
+      "Demographics & Behavior": "非常に多様な行動特性が見られます。ビジネスパーソンは昼休みにテラスや広場で休憩・歓談し、子どもたちは「インクルーシブ広場」の遊具や芝生スペースで活発に遊び、若者やシニア層はベンチに座ってくつろぐ、またはレインガーデン周辺を歩行・散策するといった、全世代型の行動図譜が形成されています。",
+      "Temporal Users": "時間的流動性として、平日の朝・昼・夕方はビジネスパーソンの通行や休憩が中心となり、日中から週末にかけては子ども連れのファミリー層や、ステップガーデンで開かれる小さな屋外マルシェ（植物の物販など）に集まる買い物客で賑わうという、時間帯に応じた変化が推察されます（guess、信頼度: 9）。"
+    },
+    "Event": {
+      "Routine Activities": "日常的な行為として、芝生やベンチでの「休憩・読書・歓談」、ステップガーデンやデッキ、誇りの杜に沿った「散策・ウォーキング」、カフェテラスでの「飲食」、広場での軽度なストレッチやヨガなどが定着しています。",
+      "Periodic & Organized Events": "建築の足元広場や「ステップガーデン」周辺のオープンスペースを利用した、植物や地域産品のマルシェ・物販イベント、あるいは「ミスト噴水」や広場エリア一体を使った季節ごとの小さな集落・ワークショップ型イベントの開催が計画・実施されています。",
+      "Informal Occupations": "流線型の立体デッキの斜面ステップに座って即興的に会話を楽しむ行為、インクルーシブ広場の丸いドーム型遊具に触れたり登ったりする子どもの自発的な遊び、広場の舗装境界の段差をベンチ代わりにして佇むなど、設計の微地形を活かした非正式な空間占有が随所に見られます。"
+    },
+    "Function": {
+      "Associated Core Functions": "中核機能として、都市の緑地（希望の広場・誇りの杜）に加えて、飲食を提供する「カフェ・レストラン（店舗施設）」、管理運営を担う「公園管理所・案内所」が複合しています。",
+      "Programmatic Ratio": "平面図および外観から、敷地全体の約7割から8割が緑地、広場、歩廊などの公共的な「オープンパブリックスペース」機能に充てられており、残りの2割から3割に商業店舗（飲食・物販）や管理施設、トイレ棟が適度に分散配置された、パブリック主導のプログラム比率です。",
+      "Supportive Infrastructure": "「レインガーデン」による都市の雨水管理機能、「ミスト噴水」による夏期の微気候調節機能、多機能トイレやバリアフリーに対応したスロープ・エレベーター、そして夜間の安全性を担保する建築一体型の照明計画などが、公園の快適性と持続可能性を支える基礎インフラとして機能しています。"
+    }
+  },
+  {
+    "id": "CASE21_杭州小河公園",
+    "Site": {
+      "Context & History": "本設計為一處結合工業遺存再利用的都市濱水公園。從影像中可見保留的圓柱形大型工業儲罐、具有鋸齒形屋頂的既有廠房建築（guess，信任度: 9），暗示該基地過去具備工業碼頭或倉儲物流之歷史背景。",
+      "Location & Boundaries": "基地夾處於一條寬闊的通航河流（河道上有貨運駁船通行）與都市既有街區之間。其邊界一側為筆直的濱水護岸，另一側則延伸至都市高層住宅群與既有道路的邊緣，呈現帶狀發展的格局。",
+      "Accessibility & Infrastructure": "基地內部建立了一套多層級的立體交通流線，包括覆蓋全區的白色巨型鋼結構景觀廊道、沿著河岸設置的階梯式親水步道，以及穿越既有建築與儲罐群的林蔭漫步道。公共基礎設施包含大面積的露天停車場及流暢的車行聯外道路。"
+    },
+    "Scale": {
+      "Physical Area & Dimension": "依據鳥瞰影像中既有廠房、貨船及周邊高層住宅的相對比例，基地總面積粗估達數萬平方公尺（guess，信任度: 8），屬於中大型尺度之都市濱水綠地，空間面寬深遠。",
+      "Perceived Scale & Enclosure": "空間感知呈現「水平極致開放」與「垂直局部圍合」的強烈對比。濱水側擁有面向河流的開闊視野，而深入綠地內部時，則由直徑約10-15公尺、高度兩至三層樓的圓柱形耐候鋼體、不鏽鋼儲罐，以及起伏的下沉綠地與露天劇場，圍塑出尺度親切、內聚感強烈的微型空間。",
+      "Capacity Classification": "具備大型集會等級的容量。基地內設置了一座半圓形的大型下沉式露天劇場階梯，可容納數百人進行集體活動，而開闊的濱水廣場與廊道下方空間亦能承受高密度的都市遊憩人潮。"
+    },
+    "Users": {
+      "Primary Users": "核心使用者包含周邊高層社區的居民、都市散步與單車休閒者、前來進行工業遺蹟打卡的觀光客，以及喜好戶外活動的兒童與青少年。",
+      "Demographics & Behavior": "使用者行為極其豐富。影像中可見單車騎士在廣場穿梭、家長帶著孩童在耐候鋼筒內部與戶外綠地遊玩、行人在濱水步道散步觀景，亦有民眾在遮陽廊道下駐足、休憩與交談。",
+      "Temporal Users": "因緊鄰大型住宅區並具備完善的夜間景觀照明潛力（透過鋼板孔洞與廊道結構）（guess，信任度: 7），預計清晨與傍晚為附近居民散步、運動的高峰期，週末假期則轉為吸引全都市家庭前來休閒的帶狀人流高峰。"
+    },
+    "Event": {
+      "Routine Activities": "日常行為包含日常散步、慢跑、騎行、濱水觀景、在遮陽棚下靜坐閱讀，以及孩童在安全圍合的耐候鋼筒空間內進行追逐與探索。",
+      "Periodic & Organized Events": "依據下沉式露天劇場與大型鋼構棚架的空間配置，此處適合舉辦季節性的戶外音樂會、社區聯歡會、文創市集、露天電影發布會等中大型有組織的公眾活動。",
+      "Informal Occupations": "民眾自發性地利用耐候鋼筒內部如星空般繁複的圓孔光影進行人像攝影、青年群體利用起伏的微地形進行滑板或即興舞蹈（guess，信任度: 6）、情侶在波浪形的耐候鋼濱水長椅上依偎佇立，將多變的硬體設施轉化為各類非正式的身體行為。"
+    },
+    "Function": {
+      "Associated Core Functions": "核心機能為「都市濱水休閒綠地」與「工業文化遺產展示」。透過將既有廠房改造成多功能公共空間、將儲罐活化為景觀裝置與活動載體，實現生態與文化的複合共生。",
+      "Programmatic Ratio": "空間機能占比以生態綠地、水景、公共步道等開放空間為主，約占整體面積的75%-80%；既有廠房改造的室內或半室內複合空間、儲罐展示區、露天劇場及交通基礎設施（停車場）則佔其餘的20%-25%。",
+      "Supportive Infrastructure": "基礎服務設施包含完整的濱水安全護欄、由鋸齒狀碎石與草皮組成的生態透水鋪面、起伏且兼具排水功能的「雨水花園/生態微地形」、耐候鋼板構成的遮蔽性構造物，以及穿插於全區的景觀休閒長椅。"
+    }
+  },
+  {
+    "id": "CASE22_Central Park of the island city Grin Grin",
+    "Site": {
+      "context_and_history": [
+        "建築位於大片開放綠地或公園環境中，周邊可見草地、植栽、水面與步道系統。",
+        "基地中出現連續起伏的地景屋頂，建築量體部分被草坡覆蓋，形成建築與地形融合的狀態。",
+        "遠景可見高層住宅或都市開發量體，顯示基地可能位於城市邊緣或新興開發區旁 (guess, confidence: 7/10)。",
+        "平面圖顯示基地內有多個獨立或半獨立的橢圓形／水滴形建築量體，並由曲線步道與地景連接。"
+      ],
+      "location_and_boundaries": [
+        "建築邊界不以明確牆面或硬質圍牆界定，而是透過草坡、屋頂曲面、步道與植栽形成柔性邊界。",
+        "主要建築量體多為低矮、貼近地面的形式，與周圍景觀高度連續。",
+        "玻璃溫室屋頂與覆土屋頂並置，使建築在外部呈現半透明與地景化兩種邊界狀態。",
+        "部分入口設於覆土拱形量體下方，外部草坡延伸至屋頂，弱化建築立面與地面的分界。"
+      ],
+      "accessibility_and_infrastructure": [
+        "基地內可見高架或抬升的曲線步道，提供觀景與環繞式通行路徑。",
+        "平面圖中可見車道、停車區、圓環與道路邊界，顯示基地具有車行抵達條件。",
+        "行人動線以曲線路徑串聯不同建築量體與戶外景觀區。",
+        "高架步道與地面步道形成不同高度層次的遊園動線。"
+      ]
+    },
+    "Scale": {
+      "physical_area_and_dimension": [
+        "建築群由多個低矮曲面量體組成，單一量體尺度接近大型溫室或展覽館。",
+        "剖面圖顯示主要室內空間具有較大的淨高，屋頂為大跨距弧形結構。",
+        "玻璃屋頂覆蓋大面積室內植栽空間，內部可容納大型植物、座椅區與寬敞通道。",
+        "基地平面範圍大，包含建築、草坡、水面、廣場、步道與停車空間。"
+      ],
+      "perceived_scale_and_enclosure": [
+        "外部感知上，建築因覆土屋頂與低矮輪廓而顯得接近地景尺度。",
+        "內部感知上，挑高玻璃頂棚與弧形屋頂創造開放、明亮、接近溫室的空間感。",
+        "入口區由大型拱形覆土屋頂形成半戶外遮蔽空間，具有明確的圍合感。",
+        "室內植物與曲線牆面使空間尺度被分段，降低大型室內空間的壓迫感。"
+      ],
+      "capacity_classification": [
+        "空間容量屬於中大型公共設施，可同時容納參觀、休憩與活動使用 (guess, confidence: 8/10)。",
+        "戶外草地、水岸與步道可支援分散式人流與停留活動。",
+        "室內座椅、桌椅與開放植栽區顯示空間可容納小型團體停留與休憩。",
+        "未見大型固定觀眾席或大型集會設備，因此不宜判定為大型表演或體育型容量。"
+      ]
+    },
+    "Users": {
+      "primary_users": [
+        "一般遊客與公園使用者。",
+        "親子或家庭型使用者 (guess, confidence: 6/10)。",
+        "植物展示、自然教育或環境學習的參觀者 (guess, confidence: 7/10)。",
+        "散步、休憩、觀景與短暫停留的日常使用者。"
+      ],
+      "demographics_and_behavior": [
+        "使用者行為包含步行、觀景、穿越、停留、拍照與休憩。",
+        "室內桌椅與植栽環境顯示使用者可在此進行靜態停留。",
+        "高架步道提供較慢速的遊園與觀看行為。",
+        "戶外水岸與曲線座椅可支援分散式停坐與社交活動。"
+      ],
+      "temporal_users": [
+        "白天使用者為主要可見族群，照片中多數空間依賴自然光。",
+        "公園散步者與遊客可能具有短時間停留特徵 (guess, confidence: 7/10)。",
+        "室內展示或植物園使用者可能具有較長時間的參觀停留特徵 (guess, confidence: 6/10)。",
+        "未見夜間照明或夜間活動資訊，因此夜間使用狀態不可判定。"
+      ]
+    },
+    "Event": {
+      "routine_activities": [
+        "沿步道散步與環繞建築移動。",
+        "在室內植栽空間中休憩、觀看植物與停留。",
+        "在戶外水岸、草地與座椅區停坐。",
+        "透過高架步道觀看屋頂、地景與周邊環境。"
+      ],
+      "periodic_and_organized_events": [
+        "室內開放空間可能可支援小型導覽、自然教育或植物展示活動 (guess, confidence: 6/10)。",
+        "戶外廣場與草地可能可承載臨時公共活動或小型聚會 (guess, confidence: 5/10)。",
+        "未見舞台、展板或活動設備，因此無法確認是否有固定節慶或大型活動。"
+      ],
+      "informal_occupations": [
+        "使用者可在曲線混凝土座椅上自由停坐。",
+        "水岸邊與草地周圍可形成非正式聚集。",
+        "高架步道與屋頂邊緣提供觀景、拍照與慢行停留。",
+        "室內植栽邊界與桌椅區可形成半私密的休憩角落。"
+      ]
+    },
+    "Function": {
+      "associated_core_functions": [
+        "溫室或植物展示空間 (guess, confidence: 8/10)。",
+        "公園內公共休憩設施。",
+        "景觀步道與觀景平台。",
+        "入口大廳或接待空間。",
+        "室內植栽庭園與半戶外休憩區。"
+      ],
+      "programmatic_ratio": [
+        "景觀與戶外步道比例高，建築被整合為公園地景的一部分。",
+        "室內空間以植栽、展示與休憩為主，硬質封閉機能比例相對較低。",
+        "玻璃屋頂空間與覆土屋頂空間並存，形成展示、休憩與環境調節的複合機能。",
+        "停車與道路等基礎設施位於基地邊緣，主體區域仍以步行與景觀活動為主。"
+      ],
+      "supportive_infrastructure": [
+        "可見入口門廳、自動門或玻璃門系統。",
+        "可見服務性牆面、設備門與機電設備箱。",
+        "玻璃屋頂設有可開啟或突出的天窗構件，可能用於採光與通風調節 (guess, confidence: 7/10)。",
+        "基地配置包含道路、停車區與圓環，支援車行抵達。",
+        "高架步道設有欄杆，提供安全的公共通行與觀景動線。"
+      ]
+    }
+  },
+  {
+    "id": "CASE23_MUFG PARK",
+    "Site": {
+      "Context_History": "The building is situated within a mature wooded park environment (likely Inokashira Park based on visual cues), featuring a mix of evergreen and deciduous trees including cherry blossoms. The design emphasizes a harmonious integration with the natural landscape. (guess, confidence: 9)",
+      "Location_Boundaries": "The structure acts as a porous boundary between a paved pedestrian path and a large open lawn. It uses a curved form to define a semi-enclosed outdoor space while maintaining visual transparency.",
+      "Accessibility_Infrastructure": "High accessibility via a curved pedestrian walkway. The building is designed with a low profile and deck-level entry, suggesting a barrier-free connection to the park grounds."
+    },
+    "Scale": {
+      "Physical_Area_Dimension": "A single-story elongated pavilion with a deep overhanging roof. The section shows a building width of approximately 8,000mm to 10,000mm with a ceiling height tapering from the rear to the front edge. (guess, confidence: 8)",
+      "Perceived_Scale_Enclosure": "The massive, thin-edged roof creates a strong sense of horizontal compression and shelter. The floor-to-ceiling glass creates a 'weightless' enclosure that dissolves the boundary between interior and exterior.",
+      "Capacity_Classification": "Medium-sized public facility. The outdoor deck and indoor seating areas suggest a capacity for approximately 50-80 people simultaneously across various zones. (guess, confidence: 7)"
+    },
+    "Users": {
+      "Primary_Users": "Park visitors, families with children, students, and remote workers looking for a quiet 'third space' environment.",
+      "Demographics_Behavior": "Includes local residents (picnicking families), casual strollers (couples, individuals with bikes), and focused users (individuals reading or using laptops).",
+      "Temporal_Users": "Usage fluctuates with park seasons, peaking during cherry blossom (Sakura) season as evidenced by the site images. (guess, confidence: 9)"
+    },
+    "Event": {
+      "Routine_Activities": "Reading, coffee consumption, laptop work, and quiet contemplation. Casual walking and transit along the perimeter deck.",
+      "Periodic_Organized_Events": "Potential for small-scale community exhibitions or book-related events given the extensive shelving visible in the section. (guess, confidence: 6)",
+      "Informal_Occupations": "Children playing in the pebble border/lawn area, people sitting on the deck edge, and groups picnicking on the adjacent grass."
+    },
+    "Function": {
+      "Associated_Core_Functions": "Primarily a library or 'Book Cafe' (MUFG Park Library). It combines a collection of books with cafe-style seating.",
+      "Programmatic_Ratio": "Approximately 40% book storage/display, 40% flexible seating/lounge area, and 20% circulation and service space. (guess, confidence: 7)",
+      "Supportive_Infrastructure": "The section reveals a raised floor system for climate control/ventilation and a thick rear wall likely housing mechanical services and structural stability for the large cantilevered roof."
+    }
+  }
+]
