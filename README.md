@@ -23,6 +23,6 @@ Routine Activities\
 Periodic & Organized Events\
 Informal Occupations
 ### function
-Associated Core Functions\
-Programmatic Ratio\
+Core Spatial Functions\
+Programmatic Relationship\
 Supportive Infrastructure
