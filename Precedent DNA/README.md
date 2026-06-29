@@ -9,7 +9,7 @@
 2. 使用LLM（ChatGPT、Gemini）對文字及圖片進行預處理的前置工作：\
    創建一個MyGPT或Google Gem，指令欄輸入'KnowledgeMaker'的內容，方便批次大量進行案例資料的預處理。
 3. 將資料餵給LLM的方式：\
-   在對話欄上傳圖片(基本圖面、現場照片、diagrams)，並將案例文字資訊用以下格式輸入：\
+   開啟先前創建的MyGPT或Google Gem，在對話欄上傳圖片(基本圖面、現場照片、diagrams)，並將案例文字資訊用以下格式輸入：\
 "\
 case_id: JP_001\
 case_name_original: Ginza Sony Park\
