@@ -1,5 +1,6 @@
 ### 使用說明
-
+1. 創建一個MyGPT或Google Gem，在指令欄輸入'precedent_gpt_workflow_guide.md'的內容，並在知識庫上傳'23 cases.json'供LLM讀取。
+2. 依照以下操作運用的說明與LLM進行對話。
 ### 操作運用
 使用情境類型：\
 **1. precedent_search (明確條件找案例)：**\
