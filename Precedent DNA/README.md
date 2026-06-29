@@ -23,6 +23,6 @@ _-diagrams_\
 _-web_text_\
 _web_text:_\
 _以下為案例網頁介紹文字，請將其作為分析依據，萃取與 site、scale、users、event、function 有關的資訊，並轉換為標準 JSON。不要逐字摘要，也不要保留與空間分析無關的宣傳語句。_\
-_[在這裡貼上網頁文字全文]"_\
+_[在這裡貼上網頁文字全文]"_
 
 5. LLM會以包含在'KnowledgeMaker'中的格式說明為範例，將資料打包成json格式(output)，請確認內容及結構正確無誤。
